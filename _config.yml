@@ -70,7 +70,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Xavier Decoster"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "Into Package Management, Lean Startup, Platform Thinking, Customer Success. Co-Founder of <a href=\"https://www.myget.org\">MyGet</a>."
   location         : "Bruges, Belgium"
   email            :
