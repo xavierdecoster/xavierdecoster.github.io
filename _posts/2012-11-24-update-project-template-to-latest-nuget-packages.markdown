@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Update project templates to the latest NuGet packages"
 date: 2012-11-24 20:43:49 +0100
 comments: true

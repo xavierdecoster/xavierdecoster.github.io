@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Migrate away from MSBuild-based NuGet package restore"
 date: 2014-03-06 09:07:46 +0100
 comments: true

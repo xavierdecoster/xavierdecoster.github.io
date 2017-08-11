@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "NuGet Package Explorer extension: open dlls with ILSpy"
 date: 2011-07-06 19:21:00 +0200
 comments: true

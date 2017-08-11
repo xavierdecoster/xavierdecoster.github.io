@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Joining Microsoft"
 date: 2015-01-27 08:21:00 +0100
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Console Application - Visual Studio gotcha on x64 OS"
 date: 2011-02-15 17:22:00 +0100
 comments: true

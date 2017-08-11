@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Why everyone should be using a symbol server"
 date: 2011-11-16 20:24:00 +0100
 comments: true

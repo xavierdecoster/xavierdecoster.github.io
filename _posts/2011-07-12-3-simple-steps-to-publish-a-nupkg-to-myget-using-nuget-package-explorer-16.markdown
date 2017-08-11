@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "3 simple steps to publish a nupkg to MyGet using NuGet Package Explorer 1.6"
 date: 2011-07-12 19:27:00 +0200
 comments: true

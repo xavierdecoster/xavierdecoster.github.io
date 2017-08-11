@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Slides for UGIALT.NET - NuGet"
 date: 2012-01-23 20:31:00 +0100
 comments: true

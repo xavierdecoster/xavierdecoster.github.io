@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Hidden gem: the NuGet package manifest XSD"
 date: 2012-03-08 21:16:00 +0100
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "MEET the Community at TechDays Belgium 2012"
 date: 2012-02-10 20:36:00 +0100
 comments: true

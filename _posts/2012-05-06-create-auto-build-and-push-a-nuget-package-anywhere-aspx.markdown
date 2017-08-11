@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Install-NuSpec & Enable-PackagePush: create, build & push NuGet packages anywhere"
 date: 2012-05-06 21:46:00 +0200
 comments: true

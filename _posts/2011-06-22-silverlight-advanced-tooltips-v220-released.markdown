@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Silverlight Advanced ToolTips v2.2.0 released"
 date: 2011-06-22 19:07:00 +0200
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "An overview of the NuGet ecosystem"
 date: 2011-09-30 19:40:00 +0200
 comments: true

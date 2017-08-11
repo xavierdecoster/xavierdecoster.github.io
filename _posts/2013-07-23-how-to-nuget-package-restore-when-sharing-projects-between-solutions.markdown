@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "How to: NuGet Package Restore when sharing projects between solutions"
 date: 2013-07-23 00:00:00 +0200
 comments: true

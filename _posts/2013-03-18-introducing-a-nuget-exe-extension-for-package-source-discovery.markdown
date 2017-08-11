@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Introducing a NuGet.exe extension for Package Source Discovery"
 date: 2013-03-18 00:00:00 +0100
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Talks & Community"
 date: 2012-10-27 00:24:07 +0200
 comments: true

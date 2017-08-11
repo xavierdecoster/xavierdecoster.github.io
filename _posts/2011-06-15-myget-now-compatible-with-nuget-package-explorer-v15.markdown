@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "MyGet now compatible with NuGet Package Explorer v1.5"
 date: 2011-06-15 18:59:00 +0200
 comments: true

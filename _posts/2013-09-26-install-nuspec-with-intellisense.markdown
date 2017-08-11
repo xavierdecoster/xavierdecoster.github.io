@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Install-NuSpec with IntelliSense"
 date: 2013-09-26 14:33:33 +0200
 comments: true

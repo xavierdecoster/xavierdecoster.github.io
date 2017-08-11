@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Semantic Versioning & auto-incremented NuGet package versions"
 date: 2013-04-29 00:00:00 +0200
 comments: true

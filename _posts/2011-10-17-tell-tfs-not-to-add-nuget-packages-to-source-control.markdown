@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Prevent TFS from adding installed NuGet packages to source control"
 date: 2011-10-17 20:09:00 +0200
 comments: true

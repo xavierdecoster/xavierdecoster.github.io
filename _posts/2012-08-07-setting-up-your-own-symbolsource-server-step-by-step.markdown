@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Setting up your own SymbolSource Server: step-by-step"
 date: 2012-08-07 22:16:00 +0200
 comments: true

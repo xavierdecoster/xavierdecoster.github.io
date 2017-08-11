@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "NuGet.Analyze now available as command line extension"
 date: 2011-10-07 20:00:00 +0200
 comments: true

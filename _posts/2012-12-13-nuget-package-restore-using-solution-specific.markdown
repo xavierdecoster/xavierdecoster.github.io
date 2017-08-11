@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "NuGet Package Restore using solution-specific NuGet.config"
 date: 2012-12-13 08:57:52 +0100
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "NuGet $version$ token explained"
 date: 2012-04-26 21:38:00 +0200
 comments: true

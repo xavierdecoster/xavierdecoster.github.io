@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Warm Crocodile Conference slides"
 date: 2013-01-17 06:56:36 +0100
 comments: true

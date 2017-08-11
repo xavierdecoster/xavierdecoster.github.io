@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "NuGet & TFS Preview: a challenging combination"
 date: 2012-10-25 22:22:00 +0200
 comments: true

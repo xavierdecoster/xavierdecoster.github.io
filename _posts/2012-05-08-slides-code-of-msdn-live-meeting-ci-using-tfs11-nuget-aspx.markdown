@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Slides & code of MSDN Live Meeting: CI using TFS11 & NuGet"
 date: 2012-05-08 21:48:00 +0200
 comments: true

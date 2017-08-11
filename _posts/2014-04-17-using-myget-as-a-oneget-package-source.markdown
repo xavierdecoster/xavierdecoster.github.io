@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Using MyGet as a OneGet package source"
 date: 2014-04-17 17:03:10 +0200
 comments: true

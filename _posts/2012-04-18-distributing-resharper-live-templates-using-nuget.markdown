@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Creating ReSharper Live Templates & distribute them using NuGet"
 date: 2012-04-18 21:32:00 +0200
 comments: true

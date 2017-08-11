@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "What you should know before speaking at a Belgian tech conference"
 date: 2011-04-29 17:34:00 +0200
 comments: true

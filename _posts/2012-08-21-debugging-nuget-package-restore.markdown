@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Debugging NuGet Package Restore"
 date: 2012-08-21 22:18:00 +0200
 comments: true

@@ -198,7 +198,7 @@ module Jekyll
 			if isPage
               f.puts <<-HEADER
 ---
-layout: post
+layout: single
 title: "#{title}"
 date: #{timestamp.strftime("%Y-%m-%d %H:%M:%S %z")}
 comments: false
@@ -213,7 +213,7 @@ HEADER
 			else
               f.puts <<-HEADER
 ---
-layout: post
+layout: single
 title: "#{title}"
 date: #{timestamp.strftime("%Y-%m-%d %H:%M:%S %z")}
 comments: true

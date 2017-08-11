@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "NuGet package filename mismatch between gallery and server"
 date: 2011-05-30 17:45:00 +0200
 comments: true

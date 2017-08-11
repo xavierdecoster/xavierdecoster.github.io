@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "How to help yourself when NuGet goes down"
 date: 2012-03-09 21:19:00 +0100
 comments: true

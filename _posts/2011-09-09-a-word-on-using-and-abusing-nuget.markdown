@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A word on using and abusing NuGet"
 date: 2011-09-09 19:37:00 +0200
 comments: true

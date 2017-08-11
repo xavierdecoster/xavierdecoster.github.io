@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Awarded MVP Visual Studio ALM"
 date: 2013-10-02 08:18:02 +0200
 comments: true

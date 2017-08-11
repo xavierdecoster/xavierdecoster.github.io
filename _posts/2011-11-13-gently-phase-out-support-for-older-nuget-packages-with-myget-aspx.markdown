@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Gently phase out support for older NuGet packages with MyGet"
 date: 2011-11-13 20:29:00 +0100
 comments: true

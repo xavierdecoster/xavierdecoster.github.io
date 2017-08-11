@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Installing commands into the NuGet PowerShell profile"
 date: 2012-06-04 21:54:00 +0200
 comments: true

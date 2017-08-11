@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Deploying the ASP.NET KRuntime Beta1 to Azure Websites"
 date: 2014-11-17 00:00:00 +0100
 comments: true

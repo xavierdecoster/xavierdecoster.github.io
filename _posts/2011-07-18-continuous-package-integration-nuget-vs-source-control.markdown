@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Continuous Package Integration: NuGet vs Source Control"
 date: 2011-07-18 19:32:00 +0200
 comments: true

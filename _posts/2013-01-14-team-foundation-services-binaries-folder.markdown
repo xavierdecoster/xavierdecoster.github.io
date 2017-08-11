@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Team Foundation Services Binaries folder"
 date: 2013-01-14 12:17:59 +0100
 comments: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Upgrading nuget.exe to v1.2"
 date: 2011-03-31 17:29:00 +0200
 comments: true

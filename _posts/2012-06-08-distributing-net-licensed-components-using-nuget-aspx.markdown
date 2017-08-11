@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Distributing .NET Licensed components using NuGet"
 date: 2012-06-08 22:07:00 +0200
 comments: true

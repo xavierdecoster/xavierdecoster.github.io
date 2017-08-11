@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Exit 2012, Enter 2013"
 date: 2013-01-03 00:00:00 +0100
 comments: true

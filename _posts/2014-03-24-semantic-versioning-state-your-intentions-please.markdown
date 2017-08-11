@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Semantic Versioning: State your intentions please!"
 date: 2014-03-24 00:00:00 +0100
 comments: true

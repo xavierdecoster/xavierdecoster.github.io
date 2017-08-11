@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Deploying to Azure Web Sites using NuGet package restore from a secured feed"
 date: 2013-03-24 00:00:00 +0100
 comments: true

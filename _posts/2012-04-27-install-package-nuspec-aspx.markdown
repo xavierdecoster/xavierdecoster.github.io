@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Install-Package NuSpec"
 date: 2012-04-27 21:44:00 +0200
 comments: true

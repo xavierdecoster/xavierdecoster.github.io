@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "NuGet Package Analysis: Encouraging Semantic Versioning"
 date: 2013-01-31 00:00:00 +0100
 comments: true

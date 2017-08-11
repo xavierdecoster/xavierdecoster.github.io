@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "U NO LIKE VS2012 SHOUTING MENUS?!"
 date: 2012-06-01 21:50:00 +0200
 comments: true

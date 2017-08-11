@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Generate NuGet package dependency matrix directly from TFS source control"
 date: 2011-10-06 19:57:00 +0200
 comments: true

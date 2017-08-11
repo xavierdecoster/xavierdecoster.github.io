@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Resharper plug-in: Minify XML"
 date: 2012-02-10 20:48:00 +0100
 comments: true

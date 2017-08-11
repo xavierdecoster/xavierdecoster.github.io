@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "MyGet tops Vanilla NuGet feeds with a Chocolatey flavor"
 date: 2012-03-01 21:06:00 +0100
 comments: true

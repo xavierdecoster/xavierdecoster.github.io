@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Generated AssemblyVersion for NuGet package on TFS Build"
 date: 2012-04-14 21:26:00 +0200
 comments: true

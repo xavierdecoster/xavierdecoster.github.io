@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "NuGet Package Restore from a secured feed"
 date: 2012-12-12 10:05:03 +0100
 comments: true

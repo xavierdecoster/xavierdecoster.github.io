@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Announcing MyGet: NuGet-as-a-Service"
 date: 2011-05-31 17:55:00 +0200
 comments: true

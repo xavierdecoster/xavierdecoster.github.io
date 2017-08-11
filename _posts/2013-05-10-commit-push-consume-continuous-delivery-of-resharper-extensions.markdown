@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Commit, Push, Consume: continuous delivery of ReSharper extensions"
 date: 2013-05-10 13:07:00 +0200
 comments: true

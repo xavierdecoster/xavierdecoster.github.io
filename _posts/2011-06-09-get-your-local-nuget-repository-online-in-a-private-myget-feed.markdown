@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Get your local NuGet repository online in a private MyGet feed"
 date: 2011-06-09 18:08:00 +0200
 comments: true

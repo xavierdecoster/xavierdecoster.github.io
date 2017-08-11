@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Install NuGet command line extensions using the Package Manager Console"
 date: 2011-10-20 20:17:00 +0200
 comments: true

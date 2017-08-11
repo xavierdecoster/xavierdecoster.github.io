@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "A ReSharper plugin to detect suspicious semicolons in Razor views"
 date: 2013-04-30 17:06:00 +0200
 comments: true

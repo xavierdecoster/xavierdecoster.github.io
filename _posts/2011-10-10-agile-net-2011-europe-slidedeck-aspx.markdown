@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Agile .NET 2011 Europe slidedeck"
 date: 2011-10-10 20:04:00 +0200
 comments: true

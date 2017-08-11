@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Adding NuGet packages from the official feed to your MyGet feed: some improvements"
 date: 2011-06-15 18:52:00 +0200
 comments: true
