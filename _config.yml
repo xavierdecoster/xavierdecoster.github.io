@@ -11,7 +11,7 @@ title                    : "Xavier Decoster"
 title_separator          : "-"
 name                     : "Xavier Decoster"
 description              : "Algoritmi sani in codice sano"
-url                      : "http://www.xavierdecoster.com"
+url                      : "http://xavierdecoster.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -54,7 +54,7 @@ social:
     - "https://twitter.com/xavierdecoster"
     - "https://www.linkedin.com/in/xavierdecoster"
     - "https://about.me/xavierdecoster"
-    - "http://stackoverflow.com/cv/xavierdecoster"
+    - "https://stackoverflow.com/cv/xavierdecoster"
 
 # Analytics
 analytics:
