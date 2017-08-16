@@ -20,11 +20,11 @@ redirect_from:
 
 <p>When navigating to the package details page on MyGet, you'll notice that a new button has been added next to each entry in the package history listing, as shown below.</p>
 
-<p><a href="https://xavierdecosterblog.blob.core.windows.net/blog/2011-11-13/package_history.png" target="_blank"><img width="650" height="174" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-11-13/package_history.png" /></a></p>
+<p><a href="/images/2011-11-13/package_history.png" target="_blank"><img width="650" height="174" alt="" src="/images/2011-11-13/package_history.png" /></a></p>
 
 <p>You can easily toggle the state of a package by marking it as listed or unlisted. We'll also alert you about the impact of your change so you can't break anything by accidentally clicking the button.</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-11-13/alert_make_unlisted.png" alt="" /></p>
+<p><img src="/images/2011-11-13/alert_make_unlisted.png" alt="" /></p>
 
 <h1>Package Listing Explained</h1>
 

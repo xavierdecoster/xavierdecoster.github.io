@@ -26,7 +26,7 @@ redirect_from:
       </td>
 
       <td style="border:none;">
-        <img width="285" height="202" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="pinksombrero" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-09/pinksombrero.png" />
+        <img width="285" height="202" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="pinksombrero" src="/images/2012-03-09/pinksombrero.png" />
       </td>
     </tr>
   </tbody>

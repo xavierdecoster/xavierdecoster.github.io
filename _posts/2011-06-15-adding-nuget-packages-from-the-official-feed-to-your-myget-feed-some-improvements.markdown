@@ -25,7 +25,7 @@ redirect_from:
 
 <p>You'll notice there are a bit more options in the UI as well, so you can adjust the behavior to your needs.</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-06-15/2011-6-improvedmygetaddpackagefromnugetfeedpart1.png" width="650" height="304" /></p>
+<p><img alt="" src="/images/2011-06-15/2011-6-improvedmygetaddpackagefromnugetfeedpart1.png" width="650" height="304" /></p>
 
 <p>Some of the search settings are now optional:</p>
 
@@ -39,7 +39,7 @@ redirect_from:
   The moment you type at least two characters, an autocomplete box will display with your matching results, as shown below:
 </div>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-06-15/2011-6-mygetaddofficialnugetpackageautocomplete.png" alt="" /></p>
+<p><img src="/images/2011-06-15/2011-6-mygetaddofficialnugetpackageautocomplete.png" alt="" /></p>
 
 <p>In a second phase, I hope to add some more useful functionality to this feature, such as search by Author, OSS license type, ...</p>
 

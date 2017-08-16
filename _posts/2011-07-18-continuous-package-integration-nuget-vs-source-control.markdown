@@ -58,7 +58,7 @@ redirect_from:
 
 <p><em>Note: I'm speaking about CI builds here by example. I use the exact same approach for any other type of build: QA builds, Release builds, ...</em></p>
 
-<p><img width="650" height="392" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-07-18/cpi.png" /></p>
+<p><img width="650" height="392" alt="" src="/images/2011-07-18/cpi.png" /></p>
 
 <p>This setup implies you have a corporate NuGet server running, preferably even with multiple feeds. There are multiple ways to accomplish this, but if you want a quick start and play with this setup, I suggest you try out <a href="http://www.myget.org" target="_blank">MyGet (NuGet-as-a-Service)</a> and focus on your process first. MyGet can also help in <a href="http://blog.maartenballiauw.be/post/2011/07/15/Copy-packages-from-one-NuGet-feed-to-another.aspx" target="_blank">ensuring a specific package version is always available by mirroring packages from the official NuGet feed</a>.</p>
 

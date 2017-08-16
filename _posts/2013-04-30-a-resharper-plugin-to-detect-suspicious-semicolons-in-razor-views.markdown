@@ -23,6 +23,6 @@ redirect_from:
 </p><p>JetBrains just <a href="http://blogs.jetbrains.com/dotnet/2013/04/new-features-in-the-latest-resharper-8-ea/" target="_blank">announced</a> the new ReSharper Extension Manager using a NuGet feed which is now <a href="http://blog.myget.org/post/2013/04/29/Create-a-list-of-favorite-ReSharper-plugins.aspx" target="_blank">also available as a package source preset on MyGet</a>. For those interested: I've hooked up my GitHub repository with my <a href="http://www.myget.org">MyGet</a> feed's POST hook, so I can automatically package-n-publish the plug-in for testing and release it with a click of a button. I'll do a follow-up post on how I did this, but for those who can't wait, there's useful info in <a href="http://blog.myget.org/post/2013/03/06/MyGet-Build-Services-Package-Versioning-Explained.aspx">this blog post</a> (I'm using a <a href="https://github.com/xavierdecoster/ReSharper.RazorExtensions/blob/master/build.bat">build.bat</a> file to hook into the build process).
 </p><p>
 To install my ReSharper extension, you need ReSharper 8 EAP or higher. For those on an earlier version of ReSharper, check for a compatible download in my GitHub repository.</p>
-<img src="https://xavierdecosterblog.blob.core.windows.net/blog/2013-04-30/2013-04-29_1901.png" style="max-width:600px"/></p>
+<img src="/images/2013-04-30/2013-04-29_1901.png" style="max-width:600px"/></p>
 
 <p>Installing ReSharper plug-ins shipped as NuGet packages and get notifications about available updates: killer feature if you ask me!</p>

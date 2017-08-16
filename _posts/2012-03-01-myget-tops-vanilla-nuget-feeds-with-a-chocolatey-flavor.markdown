@@ -17,13 +17,13 @@ redirect_from:
 <p>My personal favorite is in fact the underlying architecture that allows us to aggregate feeds and link <a href="http://blog.myget.org/post/2012/03/01/Introducing-MyGet-package-source-proxy-(beta).aspx" target="_blank">package sources</a>. These package source presets are configurable on Feed level through the new *Package Sources *tab available in the Feed management interface.</p>
 
 <div style="display: inline-block;">
-  <a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-01/managePackageSources.png" target="_blank"><img width="650" height="115" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-01/managePackageSources.png" /></a>
+  <a href="/images/2012-03-01/managePackageSources.png" target="_blank"><img width="650" height="115" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="/images/2012-03-01/managePackageSources.png" /></a>
 </div>
 
 <p>To add a package from these package source onto your own feed (either referenced or mirrored, with or without its dependencies), navigate to the <em>Add Package *dialog and select the *From Feed</em> tab (previously called "From NuGet.org").</p>
 
 <div style="display: inline-block;">
-  <a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-01/addChocolateyPackage.png" target="_blank"><img width="650" height="189" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-01/addChocolateyPackage.png" /></a>
+  <a href="/images/2012-03-01/addChocolateyPackage.png" target="_blank"><img width="650" height="189" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="/images/2012-03-01/addChocolateyPackage.png" /></a>
 </div>
 
 <p>The default setting is still <a href="http://www.nuget.org" target="_blank">NuGet.org</a> obviously, but you might notice the dropdown containing another feed: <a href="http://www.chocolatey.org" target="_blank">Chocolatey.org</a>! That's right, why not add Chocolatey to your package sources and build a feed containing your favorite tools?</p>
@@ -33,13 +33,13 @@ redirect_from:
 <p>Building such feed is very straightforward. Choose a feed name (which will be represented in your URL) and provide a meaningful description.</p>
 
 <div style="display: inline-block;">
-  <a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-01/myChocolateyFeedDetails.png" target="_blank"><img width="650" height="218" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-01/myChocolateyFeedDetails.png" /></a>
+  <a href="/images/2012-03-01/myChocolateyFeedDetails.png" target="_blank"><img width="650" height="218" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="/images/2012-03-01/myChocolateyFeedDetails.png" /></a>
 </div>
 
 <p>All that is left for a basic MyGet feed is to choose one of the predefined feed templates, as shown below. Obviously you can modify and tweak these settings further to meet your needs afterwards. We've updated our <a title="Frequently Asked Questions" href="http://www.myget.org/site/Faq" target="_blank">FAQ</a> with a full explanation of <a title="MyGet's security model explained" href="http://www.myget.org/site/Faq-Security" target="_blank">MyGet's security model</a> and how you can assign or revoke user rights on a feed.</p>
 
 <div style="display: inline-block;">
-  <a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-01/myChocolateyFeedTemplate.png" target="_blank"><img width="650" height="203" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-01/myChocolateyFeedTemplate.png" /></a>
+  <a href="/images/2012-03-01/myChocolateyFeedTemplate.png" target="_blank"><img width="650" height="203" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="/images/2012-03-01/myChocolateyFeedTemplate.png" /></a>
 </div>
 
 <p>Once the feed is created, you can start pushing packages to it. We support various ways of doing so, including:</p>
@@ -53,7 +53,7 @@ redirect_from:
 <p>Let's add some packages from the Chocolatey Gallery shall we? Simply select the Chocolatey Gallery package source and type any package name (or any other search criteria using our other search options). Autocomplete will kick in after you typed a character or two and show you a list of possible matches. Select the one you want, verify whether you want to only reference it (copy the metadata onto your feed and keep the real package in the package source) or mirror it (deep copy). If you perform a deep copy, you might prefer to opt-in and check the <em>include dependencies</em> checkbox.</p>
 
 <div style="display: inline-block;">
-  <img width="646" height="200" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-01/addChocolateyPackageGitExtensions.png" />
+  <img width="646" height="200" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="/images/2012-03-01/addChocolateyPackageGitExtensions.png" />
 </div>
 
 <p>After clicking the upload button, the operation is queued into the background for processing. It might take up to a minute until the package (and its dependencies if requested) appear on your feed. Note that we also cache the packages list on the website, but nevertheless, once processed they will appear instantly onto your feed when queried from within Visual Studio for instance.</p>
@@ -61,7 +61,7 @@ redirect_from:
 <p>For this demo, I only added GitExtensions to the feed but I mirrored it and included dependencies. After processing, my feed packages list contains the following packages.</p>
 
 <div style="display: inline-block;">
-  <a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-01/myFavoriteToolsPackagesList.png" target="_blank"><img width="650" height="161" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-01/myFavoriteToolsPackagesList.png" /></a>
+  <a href="/images/2012-03-01/myFavoriteToolsPackagesList.png" target="_blank"><img width="650" height="161" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="/images/2012-03-01/myFavoriteToolsPackagesList.png" /></a>
 </div>
 
 <p>Now it's a piece of cake to add those other tools I'm using. You might be wonderingâ€¦</p>

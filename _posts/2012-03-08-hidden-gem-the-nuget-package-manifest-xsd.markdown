@@ -40,4 +40,4 @@ redirect_from:
 
 <p>The real benefit comes with Visual Studio's ability to automatically provide Intellisense for your file when it is declared in an XML-namespace it knows. For instance, when the XSD is available in your solution. Enjoy!</p>
 
-<p><img width="580" height="514" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-03-08/2012-03-08_2027.png" /></p>
+<p><img width="580" height="514" alt="" src="/images/2012-03-08/2012-03-08_2027.png" /></p>

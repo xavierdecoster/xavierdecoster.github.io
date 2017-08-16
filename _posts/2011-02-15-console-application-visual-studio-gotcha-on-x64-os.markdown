@@ -39,4 +39,4 @@ redirect_from:
 
 <p>Unexpected gotcha!</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2010-02-15/2011-2-targetting_x86_platform.png" width="650" height="231" /></p>
+<p><img alt="" src="/images/2010-02-15/2011-2-targetting_x86_platform.png" width="650" height="231" /></p>

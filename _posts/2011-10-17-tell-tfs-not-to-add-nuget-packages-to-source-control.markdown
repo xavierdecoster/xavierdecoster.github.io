@@ -22,4 +22,4 @@ redirect_from:
 
 <p>Knowing this is half of the work, the other part is just setting the correct workspace mapping, as shown below:</p>
 
-<p><a href="https://xavierdecosterblog.blob.core.windows.net/blog/2011-10-17/tfs_workspace_nuget_packages_folder.png" target="_blank"><img width="650" height="338" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-10-17/tfs_workspace_nuget_packages_folder.png" /></a></p>
+<p><a href="/images/2011-10-17/tfs_workspace_nuget_packages_folder.png" target="_blank"><img width="650" height="338" alt="" src="/images/2011-10-17/tfs_workspace_nuget_packages_folder.png" /></a></p>

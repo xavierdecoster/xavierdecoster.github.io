@@ -35,21 +35,21 @@ public partial class MyContractComparer : KeyComparer&lt;MyContract, long&gt;
 
 <p>Here's where templates come in handy. Creating such file template in ReSharper is pretty straightforward and reveals some cool options, such as type completion and smart snippet completion. ReSharper comes with a built-in <em>Templates Explorer</em> which you'll find in the menu under <strong>ReSharper > Templates Explorer</strong>.</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-18/2012-04-18_2104.png" alt="" /></p>
+<p><img src="/images/2012-04-18/2012-04-18_2104.png" alt="" /></p>
 
 <p>In the dialog that opens, you'll notice 3 tabs. I want to create a C# file template so the <em>File Templates</em> tab is the one we need. You'll notice the 4 default C# file templates provided by ReSharper out-of-the-box when you click on C# on the left. These are the templates used when right clicking a project and selecting <strong>Add > New from Template > ...</strong></p>
 
-<p><img style="max-width: 650px;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-18/2012-04-18_2109.png" /></p>
+<p><img style="max-width: 650px;" alt="" src="/images/2012-04-18/2012-04-18_2109.png" /></p>
 
 <h2>Creating the File Template</h2>
 
 <p>That's where my new File Template needs to appear, so let's create a new one. I'll call it KeyComparer (click on the image for a high-res view). The description is what you'll see in the right-click context menu above. The default file name needs to include the extension. Notice that this is purely to indicate ReSharper that it should create (in this case) a C# file using the .cs extension. You won't see this in the dialog that will prompt you for the name of the KeyComparer when using the File Template.</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-18/2012-04-18_2145.png" alt="" /></p>
+<p><img src="/images/2012-04-18/2012-04-18_2145.png" alt="" /></p>
 
 <p>You'll notice immediately that there are some placeholders marked in the code window on the left, which also appear in the variables list on the right. Here's where the real magic kicks in: you can assign <em>macros</em> to each of these placeholders and select which ones are editable or not (and even which occurance if the placeholder occurs multiple times in the same template). You see the placeholders in the <span style="color: #ff0000; font-weight: bold;">red</span> box? Those are the only ones that the developer will need to provide when using this template while creating this class. That's like: provide a name, use autocomplete + tab key three times, save the file and done! In this sample use case, you simply provide the type you want to implement the comparer for, you provide the type of the KeyProperty, and you select the property on the compared type that represents the unique key of the object.</p>
 
-<p><a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-18/2012-04-18_2131.png" target="_blank"><img style="max-width: 650px;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-18/2012-04-18_2131.png" /></a></p>
+<p><a href="/images/2012-04-18/2012-04-18_2131.png" target="_blank"><img style="max-width: 650px;" alt="" src="/images/2012-04-18/2012-04-18_2131.png" /></a></p>
 
 <p>There are quite a lot of macros available which allow you to do a lot of neat stuff (some macros can use other variables or contextual information of the file you create). Just play with it and discover for yourself. Don't forget to add the newly created template to the quicklist by dragging and dropping it.</p>
 
@@ -57,11 +57,11 @@ public partial class MyContractComparer : KeyComparer&lt;MyContract, long&gt;
   <tbody>
     <tr>
       <td style="text-align: center;">
-        <img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-18/2012-04-18_2143.png" />
+        <img alt="" src="/images/2012-04-18/2012-04-18_2143.png" />
       </td>
 
       <td style="text-align: center;">
-        <img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-18/2012-04-18_2144.png" />
+        <img alt="" src="/images/2012-04-18/2012-04-18_2144.png" />
       </td>
     </tr>
   </tbody>
@@ -97,4 +97,4 @@ Write-Host "Successfully installed Resharper Live Templates into '$teamsettingsF
 
 <p>Feel free to post your solution :)</p>
 
-<p><img style="max-width: 650px;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-18/2012-04-18_2258.png" /></p>
+<p><img style="max-width: 650px;" alt="" src="/images/2012-04-18/2012-04-18_2258.png" /></p>

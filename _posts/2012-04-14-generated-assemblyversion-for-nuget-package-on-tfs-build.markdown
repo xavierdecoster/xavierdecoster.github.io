@@ -43,7 +43,7 @@ redirect_from:
 &lt;/files&gt;
 </pre></p></li>
 <li><p>Get the latest edition of the <a href="http://msbuildextensionpack.codeplex.com/" target="_blank">MSBuild Extension Pack</a> from Codeplex (I used April 2012 edition)</p></li>
-<li>Unzip that extension pack and find the following files in the 4.0.5.0 Binaries folder:  <em>Ionic.Zip.dll</em>, <em>MsBuildExtensionPack.dll *and *MSBuild.ExtensionPack.VersionNumber.targets</em>. Add them to the $(SolutionDir).nuget\MsBuildExtensionPack folder and make sure you add them to source control.<br/><br/><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-14/msbuildextensions.png" alt="" /></li>
+<li>Unzip that extension pack and find the following files in the 4.0.5.0 Binaries folder:  <em>Ionic.Zip.dll</em>, <em>MsBuildExtensionPack.dll *and *MSBuild.ExtensionPack.VersionNumber.targets</em>. Add them to the $(SolutionDir).nuget\MsBuildExtensionPack folder and make sure you add them to source control.<br/><br/><img src="/images/2012-04-14/msbuildextensions.png" alt="" /></li>
 </ul>
 
 <h3>Modifications</h3>
@@ -90,7 +90,7 @@ redirect_from:
    &lt;NuSpecFile&gt;relativePathFromProjectFileTo.nuspec&lt;/NuSpecFile&gt;
 &lt;/PropertyGroup&gt;</pre>
 
-<p>Change the project's output location in the Release configuration (or the configuration you use to build on TFS) to *....\Binaries* <img style="width: 600px;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-14/2012-4.png" /></p>
+<p>Change the project's output location in the Release configuration (or the configuration you use to build on TFS) to *....\Binaries* <img style="width: 600px;" alt="" src="/images/2012-04-14/2012-4.png" /></p>
 
 <h2>Controlling the Semantic Version</h2>
 
@@ -115,7 +115,7 @@ redirect_from:
 
 <p>The build output looks like this:</p>
 
-<p><img style="max-width: 600px;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-14/buildoutput.png" /></p>
+<p><img style="max-width: 600px;" alt="" src="/images/2012-04-14/buildoutput.png" /></p>
 
 <h2>Bonus: auto-push CI packages to MyGet</h2>
 

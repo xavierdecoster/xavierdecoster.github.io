@@ -26,10 +26,10 @@ redirect_from:
 
 <p>To query your feed, just copy/paste your MyGet feed url into the dialog as shown below.</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-06-15/2011-6-npe15testallversions.png" alt="" /></p>
+<p><img src="/images/2011-06-15/2011-6-npe15testallversions.png" alt="" /></p>
 
 <p>The little checkbox at the bottom saying <em>"Only show latest version of each package Id."</em> is interacting with the IsLatestVersion property of the packages.</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-06-15/2011-6-npe15testlatestversiononly.png" alt="" /></p>
+<p><img src="/images/2011-06-15/2011-6-npe15testlatestversiononly.png" alt="" /></p>
 
 <p>Enjoy!</p>

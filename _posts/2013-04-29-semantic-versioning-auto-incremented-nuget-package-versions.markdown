@@ -22,7 +22,7 @@ redirect_from:
 </li></ul><p>How can I auto-increment an unknown version?
 </p><h2>Adding NuGet to the mix
 </h2><p>Now, if the above is causing you trouble, it gets even more complicated. The following is a slide I use in my anti-patterns talk which sums it up in a single overview. The "legacy" versioning scheme mentioned on the slide is the one you'll find on <a href="http://msdn.microsoft.com/en-us/library/51ket42z(v=vs.110).aspx">MSDN</a>.
-</p><p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2013-04-30/nuget_semver_comparison.png" alt="" style="max-width:600px;"/>
+</p><p><img src="/images/2013-04-30/nuget_semver_comparison.png" alt="" style="max-width:600px;"/>
     </p><p>That's right: NuGet – at this point – does not <em>fully</em> support SemVer yet. I know it is coming and when it is there you'll get a new post from me, promised! But for now, you need to be aware of where the NuGet versioning algorithm differs from SemVer.
 </p><h1>But I want to do this the "right" way!
 </h1><p>So do I! I think – for now – there is not really a <em>right</em> way, at least it doesn't feel like that to me. The latest SemVer spec has improved guidance in terms of adding <em>metadata</em>. A build stamp actually is just a piece of metadata, it has <em>no semantics</em> whatsoever. It makes your build unique, and you can maybe trace it back to your VCS commits or work items. But it doesn't mean anything to the consumer of your package! Lovely approach, I couldn't agree more!
@@ -33,7 +33,7 @@ redirect_from:
 </p>
 </blockquote>
 <p>Please… don't! Either you apply SemVer, or you don't. SemVer doesn't have a revision number. Actually, <a href="http://msdn.microsoft.com/en-us/magazine/jj851071.aspx">using the revision number for NuGet packages is an anti-pattern</a> in my book.
-</p><p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2013-04-30/nuget_semver_comparison2.png" alt="" style="max-width:600px;"/>
+</p><p><img src="/images/2013-04-30/nuget_semver_comparison2.png" alt="" style="max-width:600px;"/>
     </p>
 <blockquote><p>"But NuGet supports it!"
 </p>

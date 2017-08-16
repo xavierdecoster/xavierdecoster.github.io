@@ -28,7 +28,7 @@ redirect_from:
 
 <p>If we try to visualize the above scenario, you'd end up with the following flow:</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-10-25/end2end.png" width="750" height="200" /></p>
+<p><img alt="" src="/images/2012-10-25/end2end.png" width="750" height="200" /></p>
 
 <p>Now how to implement this? I didn't want to customize any build definition templates for a multitude of reasons, but let's stick to the fact I didn't want to :) That leaves me with few other alternatives: MSBuild, PowerShell and NuGet.exe. I've been in this situation before and was hoping to be able to reuse some of the stuff I used on <a href="http://www.jetbrains.com/teamcity/" target="_blank">TeamCity</a>. So even if you don't use TFS or TFS Preview at all, I hope you'll find some useful information in this post.</p>
 
@@ -58,6 +58,6 @@ redirect_from:
 
 <p>All of the above makes it very cumbersome to support this scenario on TFS Preview at the moment. I'm sure if you'd go the custom build definition template way you'd end up with something very similar but less portable. I prefer this MSBuild + command line approach because it allows me to partially reuse some scripts on another environment such as TeamCity, which definitely has the lead at the moment in supporting NuGet in Continuous Integration scenarios. Adding the above "hacks" to the visualization gives us the following image:</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-10-25/end2end-detailed.png" width="750" height="285" /></p>
+<p><img alt="" src="/images/2012-10-25/end2end-detailed.png" width="750" height="285" /></p>
 
-<p>I've <a title="Click to download" href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-10-25/.nuget.zip" target="_blank">uploaded</a> the relevant sources to this post for those interested. I'd rather see first-class support for NuGet rather soon (meaning full support for this scenario as a bare minimum)...</p>
+<p>I've <a title="Click to download" href="/images/2012-10-25/.nuget.zip" target="_blank">uploaded</a> the relevant sources to this post for those interested. I'd rather see first-class support for NuGet rather soon (meaning full support for this scenario as a bare minimum)...</p>

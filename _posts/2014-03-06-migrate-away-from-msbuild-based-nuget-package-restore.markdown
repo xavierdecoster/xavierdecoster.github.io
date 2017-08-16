@@ -17,13 +17,13 @@ redirect_from:
 <p>
 NuGet package restore used to be MSBuild-based. You had to explicitly enable it using the context menu on a Visual Studio solution: right-click the solution and select Enable NuGet Package Restore. In fact, if you go to the NuGet docs, you'll see that this scenario is still fully documented. A quick search for "package restore" will throw this old scenario "in your face", as it is the first hit in the search results.</p>
 
-<p><a href="http://docs.nuget.org/search?q=package%20restore" target="_blank"><img alt="First hit in search results when looking for Package Restore on the NuGet docs" src="https://xavierdecosterblog.blob.core.windows.net/blog/2014-03-06/searchresults.png" style="max-width:600px;"/></a></p>
+<p><a href="http://docs.nuget.org/search?q=package%20restore" target="_blank"><img alt="First hit in search results when looking for Package Restore on the NuGet docs" src="/images/2014-03-06/searchresults.png" style="max-width:600px;"/></a></p>
 
 <p>
 To be fair, the page does highlight that there's a new way of doing this. But many people don't read. At best some look at the pictures. That's why I won't even include a screenshot of that page, as it is full of project setup details that no one should ever go through again. Instead, I'll give you a clear picture of what you should <strong>not</strong> do :)
 </p>
 
-<p><a href="https://xavierdecosterblog.blob.core.windows.net/blog/2014-03-06/dontdothis.png" target="_blank"><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2014-03-06/dontdothis.png" alt="Don't do this!" style="max-height:450px;"/></a></p>
+<p><a href="/images/2014-03-06/dontdothis.png" target="_blank"><img src="/images/2014-03-06/dontdothis.png" alt="Don't do this!" style="max-height:450px;"/></a></p>
 
 <h1>You're doing it wrong!</h1>
 
@@ -39,7 +39,7 @@ The MSBuild-based NuGet package restore has issues. For one: it's MSBuild-based.
 
 <p>All you need to do is to make sure that your Visual Studio options allow NuGet to download any missing packages in a pre-build phase (note: even before MSBuild compilation starts!). I'm not going to rephrase step-by-step what you should do as <a href="http://blog.davidebbo.com/2014/01/the-right-way-to-restore-nuget-packages.html" target="_blank">David Ebbo already has a great post explaining all of this</a>!</p>
 
-<p><img alt="Ensure NuGet is allowed to download missing packages" src="https://xavierdecosterblog.blob.core.windows.net/blog/2014-03-06/options.png" style="max-width:600px;"/></p>
+<p><img alt="Ensure NuGet is allowed to download missing packages" src="/images/2014-03-06/options.png" style="max-width:600px;"/></p>
 
 <p>If you're cloning a new project that did not commit any NuGet packages (and is not using the old MSBuild-based restore), then it just works!</p>
 

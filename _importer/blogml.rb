@@ -130,6 +130,8 @@ module Jekyll
           #
           # Replace /image.axd?picture= with /images/
           content.gsub!(/\/image\.axd\?picture\=/, "/images/")
+          # Replace https://xavierdecosterblog.blob.core.windows.net/blog/ with /images/
+          content.gsub!(/https:\/\/xavierdecosterblog.blob.core.windows.net\/blog\//, "/images/")
           # Replace /file.axd?file= with /files/
           content.gsub!(/\/file\.axd\?file\=/, "/files/")
           # Replace encoded /'s with real thing

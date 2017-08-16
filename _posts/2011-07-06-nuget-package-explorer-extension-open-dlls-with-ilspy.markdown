@@ -30,17 +30,17 @@ redirect_from:
 
 <p>To install the plugin, just open up <a class="externalLink" href="http://npe.codeplex.com">NuGet Package Explorer</a> and select Tools &gt; Plugin Manager...</p>
 
-<p><img style="width: 600px;" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-07-06/npe_pluginmgr.png" /></p>
+<p><img style="width: 600px;" src="/images/2011-07-06/npe_pluginmgr.png" /></p>
 
 <p>Add the <a class="externalLink" href="http://npeilspy.codeplex.com/releases">downloaded library</a> in the list of loaded plugins and you're good to go.</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-07-06/npe_loadedplugins.png" /></p>
+<p><img src="/images/2011-07-06/npe_loadedplugins.png" /></p>
 
 <p>Just double click an assembly inside an NuGet package and it will prompt you to open it in ILSpy.</p>
 
-<p><img style="width: 600px;" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-07-06/npe_openassembly.png" /></p>
+<p><img style="width: 600px;" src="/images/2011-07-06/npe_openassembly.png" /></p>
 
-<p><img style="width: 600px;" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-07-06/npe_ilspy.png" /></p>
+<p><img style="width: 600px;" src="/images/2011-07-06/npe_ilspy.png" /></p>
 
 <p>Of course you need to have <a class="externalLink" href="http://wiki.sharpdevelop.net/ILSpy.ashx">ILSpy</a> on your computer (as well as <a class="externalLink" href="http://npe.codeplex.com">NuGet Package Explorer</a> 1.5 or above).</p>
 

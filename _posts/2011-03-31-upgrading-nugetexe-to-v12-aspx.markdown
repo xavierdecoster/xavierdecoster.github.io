@@ -18,7 +18,7 @@ redirect_from:
 
 <p>I took a screenshot of the update process and it quickly shows you what new options are available in v1.2.</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-03-31/2011-3-NuGet_1.1_to_1.2_upgrade.png" alt="NuGet.exe command help" /></p>
+<p><img src="/images/2011-03-31/2011-3-NuGet_1.1_to_1.2_upgrade.png" alt="NuGet.exe command help" /></p>
 
 <p>David Ebbo already made a great post on the new <em>nuget setApiKey</em> option, which you find <a href="http://blog.davidebbo.com/2011/03/saving-your-api-key-with-nugetexe.html" target="_blank">here</a>.</p>
 

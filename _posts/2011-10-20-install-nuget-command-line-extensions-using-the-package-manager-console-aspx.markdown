@@ -18,7 +18,7 @@ redirect_from:
 
 <p>I've wrapped it up in a package, and created a new cmdlet you all can use from now on: it's called *Install-CommandLineExtension. *To install it, simply install the <strong><a href="http://www.nuget.org/List/Packages/NuGet.InstallCommandLineExtension" target="_blank">NuGet.InstallCommandLineExtension</a></strong> package.</p>
 
-<p><img width="650" height="74" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-10-20/2011-10.png" /></p>
+<p><img width="650" height="74" alt="" src="/images/2011-10-20/2011-10.png" /></p>
 
 <p>By default, it will also install a first command line extension that provides the same functionality from the command line. This one adds a new command <em><a href="http://www.nuget.org/List/Packages/AddConsoleExtension" target="_blank">addextension</a></em> to the console. As you can see in the description of the <em>addExtension</em> package, it's instructing you with manual steps to get the thing installed, like this:</p>
 
@@ -28,7 +28,7 @@ redirect_from:
 
 <p>Once this new cmdlet is available, you can simply extend you nuget command line as shown below:</p>
 
-<p><img width="650" height="95" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-10-20/PMC_InstallCommandLineExtension_NuGetAnalyze.PNG" /></p>
+<p><img width="650" height="95" alt="" src="/images/2011-10-20/PMC_InstallCommandLineExtension_NuGetAnalyze.PNG" /></p>
 
 <p>If you intend to create your own NuGet Command Line extensions and publish them on the gallery, please use the 'ConsoleExtension' tag for your package. The extensions that are already available do this, and that allows you to very easily find those extensions in the gallery by using the following link: <a href="http://www.nuget.org/List/Search?searchTerm=tag%3A%20ConsoleExtension">http://www.nuget.org/List/Search?searchTerm=tag%3A%20ConsoleExtension</a>. Please give it a try and install any of those console extensions using this new cmdlet.</p>
 

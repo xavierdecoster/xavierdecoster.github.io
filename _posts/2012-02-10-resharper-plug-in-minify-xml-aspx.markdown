@@ -22,15 +22,15 @@ redirect_from:
 
 <h1>My Solution</h1>
 
-<p><img width="529" height="148" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; margin-right: 0px; margin-left: 0px; display: inline; background-image: none;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-02-10/2012-02-10_1410.png" /></p>
+<p><img width="529" height="148" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; margin-right: 0px; margin-left: 0px; display: inline; background-image: none;" alt="" src="/images/2012-02-10/2012-02-10_1410.png" /></p>
 
 <p>Now that's a great tip, thank you <a href="http://www.paulstack.co.uk/blog/" target="_blank">Paul</a>! When he told me it would be easy to do so using the <a href="http://download.jetbrains.com/resharper/ReSharperSDK-6.1.0.51.msi" target="_blank">ReSharper 6.1 SDK</a>, I decided to give it a shot and time-box it to an hour. One hour only!</p>
 
 <p>Hence, I installed the SDK, which on first sight looked pretty complete, including samples, project templates and a whole lot of item templates. Awesome! Creating a new ReSharper Plug-In project is really peanuts: it even is preconfigured to debug the project against the <em>Visual Studio Experimental Hive</em>, passing it the necessary parameters to plug-in your plug-in and enabling some hidden internal Resharper diagnostic windows.</p>
 
-<p><a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-02-10/2012-02-10_1420.png" target="_blank"><img width="650" height="213" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-02-10/2012-02-10_1420.png" /></a></p>
+<p><a href="/images/2012-02-10/2012-02-10_1420.png" target="_blank"><img width="650" height="213" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; display: inline; background-image: none;" alt="" src="/images/2012-02-10/2012-02-10_1420.png" /></a></p>
 
-<p><a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-02-10/2012-02-10_1425.png"><img width="650" height="525" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; margin-right: 0px; margin-left: 0px; display: inline; background-image: none;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-02-10/2012-02-10_1425.png" /></a></p>
+<p><a href="/images/2012-02-10/2012-02-10_1425.png"><img width="650" height="525" style="border-width: 0px; padding-top: 0px; padding-right: 0px; padding-left: 0px; margin-right: 0px; margin-left: 0px; display: inline; background-image: none;" alt="" src="/images/2012-02-10/2012-02-10_1425.png" /></a></p>
 
 <p>In addition to that, <a href="http://hadihariri.com/" target="_blank">Hadi Hariri</a> has a great <a href="http://hadihariri.com/2010/01/12/writing-plug-ins-for-resharper-part-1-of-undefined/" target="_blank">series on writing plug-ins for Resharper</a>, amongst which the first one helped my quite a long way to implementing my own plug-in. In less than a few minutes, I had my solution set up and could focus on the work at hand: minify some XML. That's really a great experience to get started with something you've never done before!</p>
 
@@ -66,21 +66,21 @@ redirect_from:
 
 <p>Once the plug-in is installed, and you open any XML file into Visual Studio, you'll see a new option appearing when you put your cursor in the root XML element.</p>
 
-<p><img width="266" height="152" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-02-10/2012-02-10_1518.png" /></p>
+<p><img width="266" height="152" alt="" src="/images/2012-02-10/2012-02-10_1518.png" /></p>
 
 <p>Alt-Enter (don't you dare to use the mouse!) and select <strong>Minify file</strong>.</p>
 
-<p><img width="127" height="99" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-02-10/2012-02-10_1519.png" /></p>
+<p><img width="127" height="99" alt="" src="/images/2012-02-10/2012-02-10_1519.png" /></p>
 
 <p>There you go!</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-02-10/2012-02-10_1521.png" alt="" /></p>
+<p><img src="/images/2012-02-10/2012-02-10_1521.png" alt="" /></p>
 
 <h1>Give me the goodies</h1>
 
 <p>Installing the plug-in is easy as well: simply <a href="https://github.com/downloads/xavierdecoster/Resharper-XML-Minifier/Resharper.Plugins.Minify.dll">fetch the dll</a> and put it in the following location:C:\Program Files (x86)\JetBrains\ReSharper\v6.1\Bin\PluginsDon't forget to <strong>unblock</strong> the file after downloading it because it might be very unsafe! :)You can verify if the plug-in got installed correctly by navigating to <strong>ReSharper > Tools > Options</strong> and select Plug-ins.</p>
 
-<p><img width="500" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-02-10/2012-02-10_1514.png" /></p>
+<p><img width="500" alt="" src="/images/2012-02-10/2012-02-10_1514.png" /></p>
 
 <h1>Potential for Optimization</h1>
 

@@ -32,11 +32,11 @@ redirect_from:
 
 <p>If you want to use these packages to quickly test your own NuGet server implementation (which is what I did), you'll get a <strong>404 Not Found</strong>.</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-05-30/2011-5-operation_failed.png" alt="" /></p>
+<p><img src="/images/2011-05-30/2011-5-operation_failed.png" alt="" /></p>
 
 <p>It took me a while to figure out what was wrong, because I was still able to see the package appear in the feed (you know you're probably wrong when you're trying to mess with the server config at this point).</p>
 
-<p><img width="650" height="219" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-05-30/2011-5-pkg_listed.png" /></p>
+<p><img width="650" height="219" alt="" src="/images/2011-05-30/2011-5-pkg_listed.png" /></p>
 
 <p>Solution: you'll have to <strong>rename</strong> them (replace dash with dot!)</p>
 

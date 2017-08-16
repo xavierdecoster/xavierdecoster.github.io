@@ -28,4 +28,4 @@ redirect_from:
 
 <p>All the info you need is right at your fingertips, available in MyGet's feed details. Enjoy!</p>
 
-<p><a href="https://xavierdecosterblog.blob.core.windows.net/blog/2011-11-16/image.png"><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-11-16/image.png" alt="" width="600px" /></a></p>
+<p><a href="/images/2011-11-16/image.png"><img src="/images/2011-11-16/image.png" alt="" width="600px" /></a></p>

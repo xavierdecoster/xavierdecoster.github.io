@@ -14,7 +14,7 @@ redirect_from:
 ---
 <p>Thanks everyone for joining this session!</p>
 
-<p>As promised, here are the slides and <a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-05-08/MSDN%20Live%20Meeting%20-%20CI%20using%20TFS11%20&%20NuGet%20-%20demo%20code.zip">code</a> used during the presentation. The <a href="http://channel9.msdn.com/posts/Continuous-Integration-using-TFS11--NuGet" target="_blank">Channel9 screencast</a> is now also available.</p>
+<p>As promised, here are the slides and <a href="/images/2012-05-08/MSDN%20Live%20Meeting%20-%20CI%20using%20TFS11%20&%20NuGet%20-%20demo%20code.zip">code</a> used during the presentation. The <a href="http://channel9.msdn.com/posts/Continuous-Integration-using-TFS11--NuGet" target="_blank">Channel9 screencast</a> is now also available.</p>
 
 <p><video controls="controls" poster="http://media.ch9.ms/ch9/d0e9/a6160d10-420a-4ad6-8f24-29903857d0e9/ciusingtfs11nuget_512.jpg"><source src="http://media.ch9.ms/ch9/d0e9/a6160d10-420a-4ad6-8f24-29903857d0e9/ciusingtfs11nuget_mid.mp4" type="video/mp4" /><source src="http://media.ch9.ms/ch9/d0e9/a6160d10-420a-4ad6-8f24-29903857d0e9/ciusingtfs11nuget.webm" type="video/webm" /></video></p>
 

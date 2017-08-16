@@ -30,11 +30,11 @@ redirect_from:
 
 <p>Just register an account and start creating your own private named feeds.</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-05-31/2011-5-manage_feeds.png" width="650" height="434" /></p>
+<p><img alt="" src="/images/2011-05-31/2011-5-manage_feeds.png" width="650" height="434" /></p>
 
 <p>Every feed can be uniquely composed from different NuGet packages from different sources: you can pull packages from the official <a href="http://www.nuget.org" target="_blank">NuGet Gallery</a>, you can upload packages, and in the future (we hope) you will be able to create packages from within the site as well!</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-05-31/2011-5-manage_packages.png" width="650" height="518" /></p>
+<p><img alt="" src="/images/2011-05-31/2011-5-manage_packages.png" width="650" height="518" /></p>
 
 <p>If you want, you can also check out <a href="http://blog.maartenballiauw.be/post/2011/05/31/Creating-your-own-private-NuGet-feed-myget.aspx" target="_blank">Chuck Norris' feed on Maarten's blog</a> to get you started immediately.</p>
 

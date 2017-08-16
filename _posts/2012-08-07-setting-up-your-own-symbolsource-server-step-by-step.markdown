@@ -27,7 +27,7 @@ More info: <a href="http://docs.myget.org/docs/reference/symbols">http://docs.my
 
 <p>Before you open Visual Studio and search NuGet for the 'symbolsource' keyword, you'll have to install the <a href="http://msdn.microsoft.com/en-us/windows/hardware/gg463009">Debugging Tools for Windows</a>. As I'm going to try it out on a Windows Azure Virtual Machine running Windows Server 2012 RC (living on the edge aren't we), I'll simply install the Windows SDK for Windows 8 Release Preview which contains the <strong>Debugging Tools for Windows</strong> as a standalone component.</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-08-07/install_debugging_tools.png" width="600"></p>
+<p><img alt="" src="/images/2012-08-07/install_debugging_tools.png" width="600"></p>
 
 <p><strong>Keep track of the installation path</strong> as you will need it later on.</p>
 
@@ -39,7 +39,7 @@ More info: <a href="http://docs.myget.org/docs/reference/symbols">http://docs.my
 
 <p>I started off an <em>empty</em> ASP.NET MVC4 application.</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-08-07/new_mvc_project.png" width="600px"></p>
+<p><img src="/images/2012-08-07/new_mvc_project.png" width="600px"></p>
 
 <p>Next I ran the following script in the NuGet Package Manager Console:</p>
 
@@ -47,7 +47,7 @@ More info: <a href="http://docs.myget.org/docs/reference/symbols">http://docs.my
 
 <p>For those who prefer clicking there way through the UI, you can achieve the same by right clicking your Web project's references, select Manage NuGet Packages, and query the NuGet official feed for the term "SymbolSource.Server".</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-08-07/install_symbsrc_basic_server_pkg_ui.png" width="600"></p>
+<p><img alt="" src="/images/2012-08-07/install_symbsrc_basic_server_pkg_ui.png" width="600"></p>
 
 <p>Installing this package injects a ton of dependencies into your consuming Web application project. This isn't a bad thing, really, because you get a whole lot of functionality by simply installing this single NuGet package. It even comes with <a href="http://nuget.org/packages/elmah" target="_blank">ELMAH</a> logging preconfigured, so you get logging out of the box.</p>
 
@@ -65,7 +65,7 @@ More info: <a href="http://docs.myget.org/docs/reference/symbols">http://docs.my
 
 <p>You can now start the application and browse the home page shown below.</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-08-07/symsrv_failing_push_test.png" width="600"></p>
+<p><img alt="" src="/images/2012-08-07/symsrv_failing_push_test.png" width="600"></p>
 
 <p>All the information you need, including all required URLs, is listed on the application's start page.</p>
 
@@ -80,11 +80,11 @@ More info: <a href="http://docs.myget.org/docs/reference/symbols">http://docs.my
   If you look at the previous image, you'll notice that the NuGet push test failed with an InternalServerError. Checking this on the server itself reveals that the application has no access to the App_Data folder. To fix this, simply add write permissions for the IUSR on the <b>App_Data</b> folder through IIS Management Console. Make sure you do the same for the <b>Data</b> and the <b>Index</b> folder.
 </p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-08-07/edit_site_permissions.png" alt=""></p>
+<p><img src="/images/2012-08-07/edit_site_permissions.png" alt=""></p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-08-07/edit_security_folder.png" alt=""></p>
+<p><img src="/images/2012-08-07/edit_security_folder.png" alt=""></p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-08-07/add_IUSR_WritePermissions.png" alt=""></p>
+<p><img src="/images/2012-08-07/add_IUSR_WritePermissions.png" alt=""></p>
 
 <p>There's one last thing you need to do: modify your web.config and add the following elements:</p>
 
@@ -92,7 +92,7 @@ More info: <a href="http://docs.myget.org/docs/reference/symbols">http://docs.my
 
 <p>If all went well, your home page should indicate that your server has been configured correctly.</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-08-07/symsrv_homepage.png" alt=""></p>
+<p><img src="/images/2012-08-07/symsrv_homepage.png" alt=""></p>
 
 <h2>Creating and pushing symbols packages</h2>
 

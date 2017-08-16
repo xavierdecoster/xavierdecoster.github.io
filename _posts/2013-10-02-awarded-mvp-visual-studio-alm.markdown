@@ -14,7 +14,7 @@ redirect_from:
 ---
 <p>I was quite thrilled and surprised yesterday to receive an email notification with the subject "<i>Congratulations 2013 Microsoft MVP!</i>".<br/></p>
 
-<div style="text-align:center;"><img src="https://xavierdecosterblog.blob.core.windows.net/blog/MVP-Logo.png" alt="MVP Logo"/></div>
+<div style="text-align:center;"><img src="/images/MVP-Logo.png" alt="MVP Logo"/></div>
 
 <p>I'm really honored to receive this award and find great satisfaction in the fact that Microsoft and the Community are appreciating my efforts to share experiences and insights in terms of NuGet, Visual Studio and ALM in general.</p>
 

@@ -26,13 +26,13 @@ redirect_from:
 
 <p>Here's a screenshot of what I committed into my NuGet fork:</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-10-06/nugetcmdlineanalyse.png" alt="" /></p>
+<p><img src="/images/2011-10-06/nugetcmdlineanalyse.png" alt="" /></p>
 
 <p>Why did I add the <em>tfs</em> action to the command? Because I'd love to see this command work for other version control systems as well, such as SVN, Git, Mercurial...</p>
 
 <p>I've obviously still got some work to do on the authentication part as well as you might notice, although I use <a href="http://msdn.microsoft.com/en-us/library/microsoft.teamfoundation.client.uicredentialsprovider(v=VS.100).aspx" target="_blank">UICredentialsProvider</a> from the SDK, which should prompt you with a dialog when the system cannot automatically authenticate you, as shown below.</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-10-06/nugetcmdlineanalyseauthentication.png" alt="" /></p>
+<p><img src="/images/2011-10-06/nugetcmdlineanalyseauthentication.png" alt="" /></p>
 
 <p>As you can see in the first screenshot of this post, I currently enumerate the entire server for all Team Project Collections and all Team Projects within them. The command will of course respect source control permissions for your account and only return those you have access to. Within each Team Project, a lookup is done for any repositories.config and packages.config files, their XML is analysed and a dependency matrix is generated for each Team Project.</p>
 

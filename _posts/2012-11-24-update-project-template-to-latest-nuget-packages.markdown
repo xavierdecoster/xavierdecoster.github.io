@@ -16,7 +16,7 @@ redirect_from:
 
 <p>I think most of us use the default project templates that come with Visual Studio or an SDK. Let's take the example of the MVC4 project template for C#, using Razor syntax. </p>
 
-<p><img width="600" alt="MVC4 C# Web application template using Razor syntax" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-11-24/2012-11-24_2212.png" /></p>
+<p><img width="600" alt="MVC4 C# Web application template using Razor syntax" src="/images/2012-11-24/2012-11-24_2212.png" /></p>
 
 <p>This project template is consuming quite a few NuGet packages by default. jQuery is one of them. The whole point is that these NuGet packages can be updated more frequently and independent from any pending SDK update or other product release. This is a good thing!</p>
 
@@ -95,7 +95,7 @@ redirect_from:
 
 <p>Take a look at the project template's <em>Scripts</em> folder. You see that little _references.js file?</p>
 
-<p><img width="600" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-11-24/2012-11-24_2207.png" /></p>
+<p><img width="600" src="/images/2012-11-24/2012-11-24_2207.png" /></p>
 
 <p>This is AFAIK a harmless example of things that can be left behind and out-of-sync with the package edits you make. Open the file (<em>run as administrator</em>) and update those references accordingly. The jQuery reference should now be the following:</p>
 
@@ -118,10 +118,10 @@ redirect_from:
 
 <p>Obviously, the packages you want to support in your default project templates should be available there as well, so download those NuGet packages and extract them here. You can download the NuGet package after logging in to <a href="http://www.nuget.org">NuGet.org</a>: look for the package you want, select the version you need, and you'll notice a download link on the left side.</p>
 
-<p><img width="600" alt="Download a NuGet packages from the Gallery" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-11-24/2012-11-24_2232.png" /></p>
+<p><img width="600" alt="Download a NuGet packages from the Gallery" src="/images/2012-11-24/2012-11-24_2232.png" /></p>
 
 <p>Once downloaded, unblock the package (right-click, properties, unblock), copy it to the packages directory (C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET MVC 4\Packages). Next, unzip it, and remove all <em>garbage</em>. The relevant content is selected on the following screenshot. Ensure you rename the .nuspec file by adding the version in front of it, e.g. jquery.1.8.2.nuspec.</p>
 
-<p><img alt="Relevant package contents" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-11-24/2012-11-24_2235.png" width="600"/></p>
+<p><img alt="Relevant package contents" src="/images/2012-11-24/2012-11-24_2235.png" width="600"/></p>
 
 <p>From now on, all newly created <em>default</em> MVC4 CSHTML Web projects will already contain the updated jQuery dependency.</p>

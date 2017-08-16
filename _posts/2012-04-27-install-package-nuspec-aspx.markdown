@@ -18,7 +18,7 @@ redirect_from:
   <tbody>
     <tr>
       <td style="border:none;">
-          <img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-27/2012-04-27_1359.png" />
+          <img alt="" src="/images/2012-04-27/2012-04-27_1359.png" />
       </td>
 
       <td style="vertical-align: top; border:none;">
@@ -81,6 +81,6 @@ using this tokenized nuspec file.
 
 <p>Install the package use <em>Install-Package NuSpec</em>.</p>
 
-<p><img style="max-width: 650px;" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-04-27/2012-04-27_1356.png" /></p>
+<p><img style="max-width: 650px;" alt="" src="/images/2012-04-27/2012-04-27_1356.png" /></p>
 
 <p>And start using the Install-NuSpec command instead of losing time messing arround with files and windows and stuff. (kittens die when you do that)</p>

@@ -91,7 +91,7 @@ namespace LicensedComponent
 
 <p>There's only one thing left for this component to be ready for distribution: the license file. The LicFileLicenseProvider tells the .NET runtime to look for a license file. The license file should have a specific name, which is by convention equal to the following pattern: <strong>classFullName.lic</strong>. Just put it in the component's project.</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-06-08/2012-06-08_1431.png" height="110" width="313" /></p>
+<p><img alt="" src="/images/2012-06-08/2012-06-08_1431.png" height="110" width="313" /></p>
 
 <p>In this sample, this results in LicensedComponent.LicensedUserControl.lic</p>
 
@@ -101,7 +101,7 @@ namespace LicensedComponent
 
 <p>As mentioned in this post's introduction, the consumer needs to have a <em>licenses.licx</em> file (describing the list of components that are licensed). Because I used the simple LicFileLicenseProvider, the consuming application must also have a valid <em>.lic</em> file (for each component, containing it's license key). The latter is not needed if you implemented a different licensing mechanism that doesn't require such file (e.g. checking the registry or calling a web service).</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-06-08/2012-06-08_1447.png" height="356" width="592" /></p>
+<p><img alt="" src="/images/2012-06-08/2012-06-08_1447.png" height="356" width="592" /></p>
 
 <p>For a Windows Forms licensed user control, Visual Studio will create the licenses.licx file for you the moment you drag-n-drop the component onto another control in the designer. In the screenshot above, I just docked my control on the form.</p>
 
@@ -156,14 +156,14 @@ namespace LicensedComponent
 
 <p>Here's an alternative: create a private NuGet feed on <a href="http://www.myget.org" target="_blank">MyGet</a>. Simply give access to those people who paid for it, and secure it for others.</p>
 
-<p><a title="MyGet.org - NuGet-as-a-Service" href="http://www.myget.org" target="_blank"><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2012-06-08/myget_125x32.png" /></a></p>
+<p><a title="MyGet.org - NuGet-as-a-Service" href="http://www.myget.org" target="_blank"><img alt="" src="/images/2012-06-08/myget_125x32.png" /></a></p>
 
 <p>Again, I used a very basic licensing mechanism only to demonstrate how you can embed a file-based license into your NuGet package and pointed out you can secure your feed with granular access instead of worrying about your package. It's up to you to ensure your licensing mechanism doesn't support distributing the licensed package elsewhere! (this proof-of-concept doesn't mitigate this at all, so be warned!)</p>
 
 <p>The code as well as the NuGet package are attached to this blog:</p>
 
 <ul>
-<li><a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-06-08/LicensedComponent.zip">LicensedComponent.zip (212.22 kb)</a></li>
-<li><a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-06-08/ConsumingClient.zip">ConsumingClient.zip (22.23 kb)</a></li>
-<li><a href="https://xavierdecosterblog.blob.core.windows.net/blog/2012-06-08/LicensedComponent.1.0.0.0.nupkg">LicensedComponent.1.0.0.0.nupkg (5.60 kb)</a></li>
+<li><a href="/images/2012-06-08/LicensedComponent.zip">LicensedComponent.zip (212.22 kb)</a></li>
+<li><a href="/images/2012-06-08/ConsumingClient.zip">ConsumingClient.zip (22.23 kb)</a></li>
+<li><a href="/images/2012-06-08/LicensedComponent.1.0.0.0.nupkg">LicensedComponent.1.0.0.0.nupkg (5.60 kb)</a></li>
 </ul>

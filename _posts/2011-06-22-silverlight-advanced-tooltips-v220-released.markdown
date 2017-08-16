@@ -30,4 +30,4 @@ redirect_from:
 
 <p>Enjoy!</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-06-22/2011-6-nugetpackage_tooltipservice220.PNG" width="650" height="74" /></p>
+<p><img alt="" src="/images/2011-06-22/2011-6-nugetpackage_tooltipservice220.PNG" width="650" height="74" /></p>

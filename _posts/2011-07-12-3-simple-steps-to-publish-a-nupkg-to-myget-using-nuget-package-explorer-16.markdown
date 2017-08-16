@@ -27,19 +27,19 @@ redirect_from:
 <ol>
 <li><p>Grab your MyGet feed details (API key &amp; URL)</p>
 
-<p><img width="650" height="501" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-07-12/2011-07-11_2356.png" /></p>
+<p><img width="650" height="501" alt="" src="/images/2011-07-12/2011-07-11_2356.png" /></p>
 
 <p>(Don't try this one, the '<em>Change API key</em>' link <strong>does</strong> work ^^)</p></li>
 <li><p>Open up or create your favorite NuGet package in NuGet Package Explorer 1.6</p>
 
-<p><img width="650" height="397" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-07-12/2011-07-11_2353.png" /></p></li>
+<p><img width="650" height="397" alt="" src="/images/2011-07-12/2011-07-11_2353.png" /></p></li>
 <li><p>Click on File > Publish... and follow the instructions using your feed details</p>
 
-<p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-07-12/2011-07-12_0010.png" alt="" /></p></li>
+<p><img src="/images/2011-07-12/2011-07-12_0010.png" alt="" /></p></li>
 </ol>
 
 <p>And that's it! Notice the "<em>package published successfully</em>" message and go check your MyGet feed. The next time you want to publish a package to this feed, Package Explorer will remember your API-key so you can just pick the feed URL from the dropdown. Nice and easy!</p>
 
-<p><img width="650" height="249" alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-07-12/2011-07-12_0018.png" /></p>
+<p><img width="650" height="249" alt="" src="/images/2011-07-12/2011-07-12_0018.png" /></p>
 
 <p>Note that package details might be cached for a minute on the site, but the feed is updated immediately.</p>

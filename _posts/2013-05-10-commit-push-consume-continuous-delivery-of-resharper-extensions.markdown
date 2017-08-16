@@ -48,6 +48,6 @@ redirect_from:
 </p><p>Browse to your feed settings and select the Package Sources tab. Select <em>Add Package Source</em> and click on the <em>Preset</em> button in the top-left of the dialog. You'll find a new <em>ReSharper extension gallery</em> preset. Don't forget to configure your API key for the <a href="http://resharper-plugins.jetbrains.com/">ReSharper Gallery</a> or your package can't be pushed upstream as the request would be unauthorized.
 </p><p><img src="/get/043013_2028_CommitPushC8_635029505380559885.png" alt="" style="max-width:600px;"/>
     </p><p>Whenever you want to release a new version for consumption, simply promote your package to the release repository with a click of a button.<br/>
-<img src="https://xavierdecosterblog.blob.core.windows.net/blog/2013-05-10_1504.png" style="max-width:600px;" alt="" />
+<img src="/images/2013-05-10_1504.png" style="max-width:600px;" alt="" />
 </p><h1>Conclusion
 </h1><p>Matt and the ReSharper team have really done a great job by adopting NuGet as a protocol for distributing plugins. It makes these plugins more discoverable and it's a breeze to install them or keep them up to date. As a plugin author (actually, any OSS developer), you should really leverage all the (often free for OSS!) tooling available: many organizations can only dream of such a streamlined development workflow. Releasing a new version of my plugin is really just a commit (or a pull request) away! Commit, push &amp; consume!</p></p>

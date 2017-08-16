@@ -26,12 +26,12 @@ redirect_from:
 
 <p>To facilitate the upload progress, I've now extended it to allow you to <strong>upload multiple packages at once</strong>.</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-06-09/2011-6-multipackageupload.png" width="650" height="471" /></p>
+<p><img alt="" src="/images/2011-06-09/2011-6-multipackageupload.png" width="650" height="471" /></p>
 
 <p>This saves you again a couple of clicks and redirects!</p>
 
 <p>When the packages are successfully uploaded to your feed, you'll get a nice notification telling you which packages have been added.</p>
 
-<p><img alt="" src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-06-09/2011-6-multi-package-upload_success.png" width="650" height="104" /></p>
+<p><img alt="" src="/images/2011-06-09/2011-6-multi-package-upload_success.png" width="650" height="104" /></p>
 
 <p>Noticed that the above upload of 2 packages results in 3 packages being added? <em>(it resolved a dependency to elmah.corelibrary 1.2 for elmah 1.2.0.1)</em></p>
