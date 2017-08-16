@@ -337,7 +337,7 @@ public class DynamicDataContext : DynamicObject, INotifyPropertyChanged
 <li>the term you enter in the search box is used now to scan the NuGet <strong>package ID and Title only</strong></li>
 <li>the default search method is <strong>StartsWith</strong> (self-explanatory I hope?)</li>
 <li>uppercasing or lowercasing doesn't matter (we do a ToLower behind the scenes anyway)</li>
-<li>by default, we now <strong>only <em>*search through the l</strong>atest versions</em>*</li>
+<li>by default, we now <strong>only search through the latest versions</strong></li>
 </ul>
 
 <p>You'll notice there are a bit more options in the UI as well, so you can adjust the behavior to your needs.</p>
@@ -358,9 +358,9 @@ public class DynamicDataContext : DynamicObject, INotifyPropertyChanged
 
 <p><img src="https://xavierdecosterblog.blob.core.windows.net/blog/2011-06-15/2011-6-mygetaddofficialnugetpackageautocomplete.png" alt="" /></p>
 
-<p>In a second phase, I hope to add some more useful functionality to this feature, such as search by Author, OSS license type, ...</p>
+<p>In a second phase, we hope to add some more useful functionality to this feature, such as search by Author, OSS license type, ...</p>
 
-<p>Feel free to suggest the ones you feel are really missing on the <a href="http://myget.codeplex.com/workitem/4" target="_blank">MyGet workitems on Codeplex</a>.</p>
+<p>Feel free to suggest the ones you feel are really missing on our <a href="https://myget.uservoice.com" target="_blank">MyGet UserVoice</a>.</p>
 ]]></content>
       <post-name type="text"><![CDATA[adding-nuget-packages-from-the-official-feed-to-your-myget-feed-some-improvements]]></post-name>
       <comments />
