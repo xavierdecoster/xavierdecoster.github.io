@@ -14,7 +14,7 @@ redirect_from:
 ---
 <p>It's quite late into the night over here, and the blog post is quite abstract, so please bare with me on this one :-)</p>
 
-<p>While I was playing around tweaking and optimizing some things on my recently created <a href="/post/2011/10/07/NuGet-Analyze-now-available-as-command-line-extension.aspx" target="_blank">NuGet.Analyze</a> package, I actually found a way to install a NuGet command line extension from within the NuGet Package Manager Console. Basically, I'm just using some PowerShell scripts to automate the installation procedure.</p>
+<p>While I was playing around tweaking and optimizing some things on my recently created <a href="/post/2011/10/07/NuGet-Analyze-now-available-as-command-line-extension.html" target="_blank">NuGet.Analyze</a> package, I actually found a way to install a NuGet command line extension from within the NuGet Package Manager Console. Basically, I'm just using some PowerShell scripts to automate the installation procedure.</p>
 
 <p>I've wrapped it up in a package, and created a new cmdlet you all can use from now on: it's called *Install-CommandLineExtension. *To install it, simply install the <strong><a href="http://www.nuget.org/List/Packages/NuGet.InstallCommandLineExtension" target="_blank">NuGet.InstallCommandLineExtension</a></strong> package.</p>
 

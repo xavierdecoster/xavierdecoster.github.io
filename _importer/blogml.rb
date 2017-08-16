@@ -128,6 +128,10 @@ module Jekyll
           
           ## This section is used to cleanup any content data.
           #
+          # Find all urls and replace .aspx suffix with .html suffix
+          urls = %r{(https?://www.xavierdecoster.com\S+)([.]aspx)}i
+          content = content.gsub urls, '\1.html'
+
           # Replace /image.axd?picture= with /images/
           content.gsub!(/\/image\.axd\?picture\=/, "/images/")
           # Replace https://xavierdecosterblog.blob.core.windows.net/blog/ with /images/

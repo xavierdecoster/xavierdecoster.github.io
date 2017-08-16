@@ -12,7 +12,7 @@ redirect_from:
  - /2011/11/13/gently-phase-out-support-for-older-nuget-packages-with-myget-aspx/.html
  - /2011/11/13/gently-phase-out-support-for-older-nuget-packages-with-myget-aspx/.html
 ---
-<p>Simply deleting those packages is most likely not the best option. You probably have no idea of who still depends on them, either directly or through another package depending on it, even though you could try to <a href="/post/2011/10/06/Generate-package-dependency-matrix-directly-from-TFS-source-control.aspx" target="_blank">analyze your source control repositories</a> and get some first insights.</p>
+<p>Simply deleting those packages is most likely not the best option. You probably have no idea of who still depends on them, either directly or through another package depending on it, even though you could try to <a href="/post/2011/10/06/Generate-package-dependency-matrix-directly-from-TFS-source-control.html" target="_blank">analyze your source control repositories</a> and get some first insights.</p>
 
 <p><a href="http://www.myget.org" target="_blank">MyGet</a> now has a new feature that allows you to indicate whether or not you still support a given package.</p>
 
@@ -32,7 +32,7 @@ redirect_from:
 
 <p>Unlisting a package is not the same as permanently deleting a package from the feed. You could look at it as performing a <strong>soft delete</strong>. This also means that this operation <strong>can be undone</strong>! The operation of listing or unlisting a package is restricted to <em>feed owners, feed co-owners *and *feed contributors</em>. If you only have <em>package contributor</em> permissions for the feed, you also have to be the explicit <em>package owner</em>.</p>
 
-<p>The reason we require these permissions are obvious: this is a breaking change in your package workflow! If you are using a <a href="/post/2011/07/18/Continuous-Package-Integration-NuGet-vs-Source-Control.aspx" target="_blank">no-checkin policy for NuGet packages</a>, make sure you inform people to check-in this package into their VCS so you don't break their stuff.</p>
+<p>The reason we require these permissions are obvious: this is a breaking change in your package workflow! If you are using a <a href="/post/2011/07/18/Continuous-Package-Integration-NuGet-vs-Source-Control.html" target="_blank">no-checkin policy for NuGet packages</a>, make sure you inform people to check-in this package into their VCS so you don't break their stuff.</p>
 
 <p>Be a good citizen when using this feature. In a controlled enterprise environment, this should be easy.</p>
 

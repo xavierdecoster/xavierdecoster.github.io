@@ -36,7 +36,7 @@ redirect_from:
 
 <p><img alt="" src="/images/2011-05-31/2011-5-manage_packages.png" width="650" height="518" /></p>
 
-<p>If you want, you can also check out <a href="http://blog.maartenballiauw.be/post/2011/05/31/Creating-your-own-private-NuGet-feed-myget.aspx" target="_blank">Chuck Norris' feed on Maarten's blog</a> to get you started immediately.</p>
+<p>If you want, you can also check out <a href="https://blog.maartenballiauw.be/post/2011/05/31/creating-your-own-private-nuget-feed-myget.html" target="_blank">Chuck Norris' feed on Maarten's blog</a> to get you started immediately.</p>
 
 <p>Here are some wild ideas/suggestions we are thinking about:</p>
 

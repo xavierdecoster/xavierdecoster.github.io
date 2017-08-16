@@ -12,11 +12,11 @@ redirect_from:
  - /2011/10/07/nuget-analyze-now-available-as-command-line-extension-aspx/.html
  - /2011/10/07/nuget-analyze-now-available-as-command-line-extension-aspx/.html
 ---
-<p><strong>2011-10-20 Edit: the NuGet.Analyze.Installer package is now obsolete, as explained in <a href="/post/2011/10/20/Install-NuGet-command-line-extensions-using-the-Package-Manager-Console.aspx" target="_blank">this post</a>. Use the more generic installation procedure provided by the NuGet.InstallCommandLineExtension package instead.</strong></p>
+<p><strong>2011-10-20 Edit: the NuGet.Analyze.Installer package is now obsolete, as explained in <a href="/post/2011/10/20/Install-NuGet-command-line-extensions-using-the-Package-Manager-Console.html" target="_blank">this post</a>. Use the more generic installation procedure provided by the NuGet.InstallCommandLineExtension package instead.</strong></p>
 
 <h1>Extending the command line</h1>
 
-<p>Earlier this week, I <a href="/post/2011/10/06/Generate-package-dependency-matrix-directly-from-TFS-source-control.aspx" target="_blank">posted an article</a> about a proof-of-concept I'm working on. I want to analyze a source control repository for <a href="http://www.nuget.org" target="_blank">NuGet</a> package dependencies and generate some kind of dependency matrix out of it. My proof-of-concept is targeting Team Foundation Server, as it is the most usable scenario for me to support in the short term, but I'd like to be able to do this against any type of source control system in the future.</p>
+<p>Earlier this week, I <a href="/post/2011/10/06/Generate-package-dependency-matrix-directly-from-TFS-source-control.html" target="_blank">posted an article</a> about a proof-of-concept I'm working on. I want to analyze a source control repository for <a href="http://www.nuget.org" target="_blank">NuGet</a> package dependencies and generate some kind of dependency matrix out of it. My proof-of-concept is targeting Team Foundation Server, as it is the most usable scenario for me to support in the short term, but I'd like to be able to do this against any type of source control system in the future.</p>
 
 <p>As it is just a proof-of-concept, I quickly forked the NuGet repository on Codeplex and rambled a piece of code together that did what I wanted to test. This was very quick and even more dirty. Especially the added dependencies to the TFS SDK must have been heart-breaking for the NuGet command line. Sorry about that :-)</p>
 

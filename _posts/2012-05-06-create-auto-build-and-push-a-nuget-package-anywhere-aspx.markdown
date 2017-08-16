@@ -12,7 +12,7 @@ redirect_from:
  - /2012/05/06/create-auto-build-and-push-a-nuget-package-anywhere-aspx/.html
  - /2012/05/06/create-auto-build-and-push-a-nuget-package-anywhere-aspx/.html
 ---
-<p>This short post is basically combining some of my recent posts (<a href="/post/2012/04/27/Install-Package-NuSpec.aspx" target="_blank">this</a> one and <a href="/post/2012/04/14/Generated-AssemblyVersion-for-NuGet-package-on-TFS-Build.aspx" target="_blank">that</a> one) into one. Actually, into one single NuGet package :) </p>
+<p>This short post is basically combining some of my recent posts (<a href="/post/2012/04/27/Install-Package-NuSpec.html" target="_blank">this</a> one and <a href="/post/2012/04/14/Generated-AssemblyVersion-for-NuGet-package-on-TFS-Build.html" target="_blank">that</a> one) into one. Actually, into one single NuGet package :) </p>
 
 <p>Basically, this one single package will allow me to automate and speed up package creation and publication, and it will run anywhere you can run the NuGet command line, because I only use nuget.exe and MSBuild to perform these actions. To set it up, I use a NuGet package (Install-Package NuSpec) and some PowerShell, but that's only to put the pieces of the puzzle in the right place, and give you some commands in Visual Studio. Once you're done, simply uninstall the package.</p>
 

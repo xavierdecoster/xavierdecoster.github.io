@@ -20,9 +20,9 @@ redirect_from:
 
 <p>This required you to do some plumbing to get a server running, or to manage folder security settings, and above all, if a computer trying to consume the feed was not in the network, it could not get any packages from you repository.</p>
 
-<p>MyGet provides you with a service (<em><a href="/post/2011/05/31/Announcing-MyGet.aspx" target="_blank">NuGet-as-a-Service</a></em>) that allows you to easily host your private NuGet feeds and have it <strong>always accessible</strong> from any computer connected to the internet, <strong>without that setup hassle</strong>.</p>
+<p>MyGet provides you with a service (<em><a href="/post/2011/05/31/Announcing-MyGet.html" target="_blank">NuGet-as-a-Service</a></em>) that allows you to easily host your private NuGet feeds and have it <strong>always accessible</strong> from any computer connected to the internet, <strong>without that setup hassle</strong>.</p>
 
-<p>Since we launched, you were already able to upload a single package at a time to your feed. <a href="http://blog.maartenballiauw.be/post/2011/05/31/Creating-your-own-private-NuGet-feed-myget.aspx" target="_blank">Maarten extended this</a> with a simple checkbox to define whether or not you want to <strong>include its dependencies</strong>. Note that this dependency resolution only works for dependencies to packages on the official NuGet feed at the moment.</p>
+<p>Since we launched, you were already able to upload a single package at a time to your feed. <a href="https://blog.maartenballiauw.be/post/2011/05/31/creating-your-own-private-nuget-feed-myget.html" target="_blank">Maarten extended this</a> with a simple checkbox to define whether or not you want to <strong>include its dependencies</strong>. Note that this dependency resolution only works for dependencies to packages on the official NuGet feed at the moment.</p>
 
 <p>To facilitate the upload progress, I've now extended it to allow you to <strong>upload multiple packages at once</strong>.</p>
 

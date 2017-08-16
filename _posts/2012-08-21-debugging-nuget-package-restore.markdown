@@ -49,7 +49,7 @@ redirect_from:
 <ul>
 <li>No matter what type of VCS you are using, NuGet Package Restore requires the .nuget folder to be checked-in, including the nuget.targets, nuget.config and nuget.exe.</li>
 <li>Double-check whether you are having the actual nuget.exe command line in the .nuget folder, and not the bootstrapper. The commandline is around 600Kb in file size, the bootstrapper 15Kb. The bootstrapper requires internet access, and has been made obsolete now. It might be revived in the future, but for now, you should make sure you use the nuget.exe command line tool instead. You can get the nuget.exe command line manually as well by downloading it <a href="http://nuget.org/api/v2/package/NuGet.CommandLine/2.0.0" target="_blank">here</a>. Unzip it and replace your 18Kb nuget.exe by the one you'll find inside the package.</li>
-<li>Ensure you checked in the Packages\repositories.config file. When using TFS, you'll be better off <a href="/post/2011/10/17/Tell-TFS-not-to-add-NuGet-packages-to-source-control.aspx" target="_blank">when defining appropriate workspace mappings</a> for this.</li>
+<li>Ensure you checked in the Packages\repositories.config file. When using TFS, you'll be better off <a href="/post/2011/10/17/Tell-TFS-not-to-add-NuGet-packages-to-source-control.html" target="_blank">when defining appropriate workspace mappings</a> for this.</li>
 </ul>
 
 <h3>On The Build Server</h3>
