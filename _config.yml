@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Xavier Decoster"
 title_separator          : "-"
 name                     : "Xavier Decoster"
-description              : "Algoritmi sani in codice sano"
+description              : "Xavier Decoster's blog"
 url                      : "http://xavierdecoster.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -165,7 +165,7 @@ sass:
 # Outputting
 permalink: /:categories/:year/:month/:day/:title.html
 paginate: 10 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /:num/
 timezone: Europe/Brussels # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
