@@ -5,7 +5,7 @@ date: 2013-04-29 00:00:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","NuGet","SemVer","Package Management"]
 alias: ["/2013/04/29/semantic-versioning-auto-incremented-nuget-package-versions/"]
 author: Xavier Decoster
 redirect_from:
@@ -28,16 +28,22 @@ redirect_from:
 </h1><p>So do I! I think – for now – there is not really a <em>right</em> way, at least it doesn't feel like that to me. The latest SemVer spec has improved guidance in terms of adding <em>metadata</em>. A build stamp actually is just a piece of metadata, it has <em>no semantics</em> whatsoever. It makes your build unique, and you can maybe trace it back to your VCS commits or work items. But it doesn't mean anything to the consumer of your package! Lovely approach, I couldn't agree more!
 </p><p>As long as NuGet doesn't support this spec to its full extent, it just doesn't feel <em>right</em>. However, the approach I explain below doesn't feel <em>wrong</em> either. It is a little bit of a hack, I agree: I'll be abusing the pre-release tag for this. But CI packages aren't full releases anyway, are they? Only if you decide to <em>promote</em> a given CI package to the release repository and strip off the pre-release tag, you end up with a release (note: no recompilation). Actually, you <em>don't have to</em> strip it from its pre-release tag, you're free to promote pre-releases for consumption as well. I'm not violating any of this in my approach for CI package versioning.
 </p><h2>Why don't you use the revision number for CI?
-</h2>
+</h2>
+
 <blockquote><p>"Oh, I know, let's add a 4<sup>th</sup> number – the revision number – this is perfectly fine <a href="http://msdn.microsoft.com/en-us/library/51ket42z(v=vs.110).aspx">according to MSDN</a>!"
-</p>
-</blockquote>
+</p>
+
+</blockquote>
+
 <p>Please… don't! Either you apply SemVer, or you don't. SemVer doesn't have a revision number. Actually, <a href="http://msdn.microsoft.com/en-us/magazine/jj851071.aspx">using the revision number for NuGet packages is an anti-pattern</a> in my book.
 </p><p><img src="/images/2013-04-30/nuget_semver_comparison2.png" alt="" style="max-width:600px;"/>
-    </p>
+    </p>
+
 <blockquote><p>"But NuGet supports it!"
-</p>
-</blockquote>
+</p>
+
+</blockquote>
+
 <p>Yep, but are you aware that a version with a revision number is considered higher than a version without a revision number? Once there is a package with a 4<sup>th</sup> version number in you repository, your repository is no longer SemVer-compliant. A package with version 1.2.1.20130429 will always be considered newer than 1.2.1. I'm sure you like a proper release version and prefer 1.2.1 for the actual release? Also, you can't include any dots in the pre-release tag. Oh, and it's not even supported by SemVer, which is the topic of this post!
 </p><p>As stated earlier, your package consumer doesn't care about the build stamp, it's meaningless to them, so why would you bother them (and yourself?) with it?
 </p><h2>Change the package ID!
@@ -51,10 +57,13 @@ redirect_from:
 </p><p>This effectively means that the following package precedence definition is true: 1.0.0-alpha2 &gt; 1.0.0-alpha10. Oops! We need leading zeros: 1.0.0-alpha02 &lt; 1.0.0-alpha10. Much better. But wait, how do I know how many leading zeros I need? Answer: you don't! Pick a number which is high enough: do you make 100 builds between two releases? 1000? More? Here's the thing: MyGet build services does this for you. No need to worry about the leading zeros, we use 5 digits for the auto-increment by default. You need more? Add another one in front of the placeholder and change it manual if you max out. Note that we will improve this further as soon as full SemVer support is available in NuGet.
 </p><p><img src="/get/042913_1149_SemanticVer3_635028329532561185.png" alt=""/>
     </p><h1>But how do I decide what SemVer to use for vNext?
-</h1>
+</h1>
+
 <blockquote><p>"I just started working on vNext after my 0.11.1 release. What semantic version should I use for my CI builds?"
-</p>
-</blockquote>
+</p>
+
+</blockquote>
+
 <p>The minimum required SemVer version increment is a patch release: start from <strong>0.11.2</strong>-CI00001 and see from there. Also, it's totally fine to increment the SemVer part between 2 sequential pre-releases, e.g. 0.11.2-CI00001 --&gt; 0.12.0-CI00001. Just take into account that only a single SemVer number can be incremented by a single digit between two releases: either you increment the major, the minor or the patch version by 1 (so from 0.11.1 to 0.12.0 is OK, from 0.11.1 to 0.12.1 is not).
 </p><p>So you start working on vNext?
 </p><ul><li>Reset the build counter

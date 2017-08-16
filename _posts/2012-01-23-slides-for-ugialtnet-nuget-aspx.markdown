@@ -5,7 +5,7 @@ date: 2012-01-23 20:31:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Community","NuGet","MyGet","Package Management"]
 alias: ["/2012/01/23/slides-for-ugialtnet-nuget-aspx/"]
 author: Xavier Decoster
 redirect_from:

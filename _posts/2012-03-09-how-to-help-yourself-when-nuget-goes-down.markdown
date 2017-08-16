@@ -5,7 +5,7 @@ date: 2012-03-09 21:19:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","MyGet","Package Management"]
 alias: ["/2012/03/09/how-to-help-yourself-when-nuget-goes-down/"]
 author: Xavier Decoster
 redirect_from:

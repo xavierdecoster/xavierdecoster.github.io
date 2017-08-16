@@ -5,7 +5,7 @@ date: 2011-10-06 19:57:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","NuGet","TFS","Open source","Package Management"]
 alias: ["/2011/10/06/generate-package-dependency-matrix-directly-from-tfs-source-control-aspx/"]
 author: Xavier Decoster
 redirect_from:

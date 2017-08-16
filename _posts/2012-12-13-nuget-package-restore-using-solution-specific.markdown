@@ -5,7 +5,7 @@ date: 2012-12-13 08:57:52 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management"]
 alias: ["/2012/12/13/nuget-package-restore-using-solution-specific/"]
 author: Xavier Decoster
 redirect_from:

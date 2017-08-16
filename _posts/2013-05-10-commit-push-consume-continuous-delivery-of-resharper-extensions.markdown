@@ -5,7 +5,7 @@ date: 2013-05-10 13:07:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ReSharper","Visual Studio","NuGet","Package Management"]
 alias: ["/2013/05/10/commit-push-consume-continuous-delivery-of-resharper-extensions/"]
 author: Xavier Decoster
 redirect_from:

@@ -5,7 +5,7 @@ date: 2011-06-15 18:59:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","MyGet","Package Management"]
 alias: ["/2011/06/15/myget-now-compatible-with-nuget-package-explorer-v15/"]
 author: Xavier Decoster
 redirect_from:

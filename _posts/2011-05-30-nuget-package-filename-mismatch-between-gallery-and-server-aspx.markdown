@@ -5,7 +5,7 @@ date: 2011-05-30 17:45:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management"]
 alias: ["/2011/05/30/nuget-package-filename-mismatch-between-gallery-and-server-aspx/"]
 author: Xavier Decoster
 redirect_from:

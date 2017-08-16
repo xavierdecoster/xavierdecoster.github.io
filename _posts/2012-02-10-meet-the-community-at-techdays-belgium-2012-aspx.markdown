@@ -5,7 +5,7 @@ date: 2012-02-10 20:36:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Community"]
 alias: ["/2012/02/10/meet-the-community-at-techdays-belgium-2012-aspx/"]
 author: Xavier Decoster
 redirect_from:

@@ -5,7 +5,7 @@ date: 2011-11-13 20:29:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","NuGet","MyGet","Package Management"]
 alias: ["/2011/11/13/gently-phase-out-support-for-older-nuget-packages-with-myget-aspx/"]
 author: Xavier Decoster
 redirect_from:

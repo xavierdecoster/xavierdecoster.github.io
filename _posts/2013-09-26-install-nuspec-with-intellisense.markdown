@@ -5,7 +5,7 @@ date: 2013-09-26 14:33:33 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Visual Studio","Package Management"]
 alias: ["/2013/09/26/install-nuspec-with-intellisense/"]
 author: Xavier Decoster
 redirect_from:

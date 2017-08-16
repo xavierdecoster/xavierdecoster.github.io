@@ -5,7 +5,7 @@ date: 2011-03-31 17:29:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management"]
 alias: ["/2011/03/31/upgrading-nugetexe-to-v12-aspx/"]
 author: Xavier Decoster
 redirect_from:

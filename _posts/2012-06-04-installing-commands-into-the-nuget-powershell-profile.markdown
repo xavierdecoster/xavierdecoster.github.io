@@ -5,7 +5,7 @@ date: 2012-06-04 21:54:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management"]
 alias: ["/2012/06/04/installing-commands-into-the-nuget-powershell-profile/"]
 author: Xavier Decoster
 redirect_from:

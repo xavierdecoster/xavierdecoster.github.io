@@ -5,7 +5,7 @@ date: 2011-07-12 19:27:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","MyGet","Package Management"]
 alias: ["/2011/07/12/3-simple-steps-to-publish-a-nupkg-to-myget-using-nuget-package-explorer-16/"]
 author: Xavier Decoster
 redirect_from:

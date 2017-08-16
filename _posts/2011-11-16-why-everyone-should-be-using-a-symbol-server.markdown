@@ -5,7 +5,7 @@ date: 2011-11-16 20:24:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","Community","NuGet","Symbols","Package Management"]
 alias: ["/2011/11/16/why-everyone-should-be-using-a-symbol-server/"]
 author: Xavier Decoster
 redirect_from:

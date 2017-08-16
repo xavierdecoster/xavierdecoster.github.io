@@ -5,7 +5,7 @@ date: 2013-10-02 08:18:02 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","Visual Studio","MVP","Community"]
 alias: ["/2013/10/02/awarded-mvp-visual-studio-alm/"]
 author: Xavier Decoster
 redirect_from:

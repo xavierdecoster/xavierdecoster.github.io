@@ -5,7 +5,7 @@ date: 2011-04-29 17:34:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Community"]
 alias: ["/2011/04/29/what-you-should-know-before-speaking-at-a-belgian-tech-conference/"]
 author: Xavier Decoster
 redirect_from:

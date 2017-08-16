@@ -5,7 +5,7 @@ date: 2012-03-01 21:06:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Chocolatey","NuGet","MyGet","Package Management"]
 alias: ["/2012/03/01/myget-tops-vanilla-nuget-feeds-with-a-chocolatey-flavor/"]
 author: Xavier Decoster
 redirect_from:

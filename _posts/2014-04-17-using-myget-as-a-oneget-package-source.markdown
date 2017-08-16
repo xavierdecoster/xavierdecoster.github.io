@@ -5,9 +5,10 @@ date: 2014-04-17 17:03:10 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: [ "NuGet","MyGet","Chocolatey","OneGet","Package Management"]
 alias: ["/2014/04/17/using-myget-as-a-oneget-package-source/"]
 author: Xavier Decoster
+header.image: "/images/2014-04-18/2014-04-17_1958.png"
 redirect_from:
  - /2014/04/17/using-myget-as-a-oneget-package-source/.html
  - /2014/04/17/using-myget-as-a-oneget-package-source/.html
@@ -16,9 +17,12 @@ redirect_from:
 
 <h1>What is OneGet?</h1>
 
-
-<blockquote>OneGet a unified package management interface component with a set of managed and native APIs, a set of PowerShell cmdlets, and a WMI provider. The component accepts both Microsoft-provided and 3rd party-provided plugins which extend the functionality for a given package type.
-</blockquote>
+
+
+<blockquote>OneGet a unified package management interface component with a set of managed and native APIs, a set of PowerShell cmdlets, and a WMI provider. The component accepts both Microsoft-provided and 3rd party-provided plugins which extend the functionality for a given package type.
+
+</blockquote>
+
 
 
 <p>The OneGet team also has a weekly community meeting of which you can see the first introductionary recording below.</p>

@@ -5,7 +5,7 @@ date: 2013-01-17 06:56:36 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Community","NuGet","Package Management"]
 alias: ["/2013/01/17/warm-crocodile-conference-slides/"]
 author: Xavier Decoster
 redirect_from:

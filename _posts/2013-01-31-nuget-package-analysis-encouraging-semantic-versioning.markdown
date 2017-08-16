@@ -5,7 +5,7 @@ date: 2013-01-31 00:00:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","SemVer","Package Management"]
 alias: ["/2013/01/31/nuget-package-analysis-encouraging-semantic-versioning/"]
 author: Xavier Decoster
 redirect_from:
@@ -19,8 +19,10 @@ redirect_from:
 </li><li>NuGet doesn't (yet) fully support the SemVer specification
 </li></ul><h1>Not everyone produces SemVer packages
 </h1><p>I recently noticed this tweet from Steve Bohlen:
-</p><blockquote class="twitter-tweet"><p>posited: the fact that <a href="https://twitter.com/search/%23nuget">#nuget</a> tooling respects <a href="https://twitter.com/search/%23semver">#semver</a> but many pkg authors do not is a continued threat to its efficacy and success</p>&mdash; Steve Bohlen (@sbohlen) <a href="https://twitter.com/sbohlen/status/294453663987027968">January 24, 2013</a>
-</blockquote>
+</p><blockquote class="twitter-tweet"><p>posited: the fact that <a href="https://twitter.com/search/%23nuget">#nuget</a> tooling respects <a href="https://twitter.com/search/%23semver">#semver</a> but many pkg authors do not is a continued threat to its efficacy and success</p>&mdash; Steve Bohlen (@sbohlen) <a href="https://twitter.com/sbohlen/status/294453663987027968">January 24, 2013</a>
+
+</blockquote>
+
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script><p>
  </p><p>I agree with the statement in the sense that different versioning schemes on the same repository can cause trouble and are an impediment. The NuGet Gallery is a single public repository, currently hosting a mix of packages with different versioning schemes. It's really hard to support both SemVer and legacy schemes and come up with a generic algorithm to define version precedence! Just take a look at this <a href="https://github.com/mojombo/semver/issues/51">discussion on GitHub</a> (home of the SemVer spec).

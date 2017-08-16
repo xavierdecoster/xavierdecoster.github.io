@@ -5,7 +5,7 @@ date: 2012-03-08 21:16:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management"]
 alias: ["/2012/03/08/hidden-gem-the-nuget-package-manifest-xsd/"]
 author: Xavier Decoster
 redirect_from:

@@ -5,7 +5,7 @@ date: 2011-06-22 19:07:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["C#","Silverlight","Open source"]
 alias: ["/2011/06/22/silverlight-advanced-tooltips-v220-released/"]
 author: Xavier Decoster
 redirect_from:

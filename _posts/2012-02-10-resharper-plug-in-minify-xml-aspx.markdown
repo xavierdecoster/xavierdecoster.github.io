@@ -5,7 +5,7 @@ date: 2012-02-10 20:48:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["C#","Visual Studio","ReSharper","Open source"]
 alias: ["/2012/02/10/resharper-plug-in-minify-xml-aspx/"]
 author: Xavier Decoster
 redirect_from:

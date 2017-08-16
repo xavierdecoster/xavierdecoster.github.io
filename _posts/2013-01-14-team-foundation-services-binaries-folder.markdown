@@ -5,7 +5,7 @@ date: 2013-01-14 12:17:59 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM",TFS"]
 alias: ["/2013/01/14/team-foundation-services-binaries-folder/"]
 author: Xavier Decoster
 redirect_from:

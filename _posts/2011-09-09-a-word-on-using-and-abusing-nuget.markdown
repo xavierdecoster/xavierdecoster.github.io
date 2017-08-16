@@ -5,7 +5,7 @@ date: 2011-09-09 19:37:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","NuGet","Package Management"]
 alias: ["/2011/09/09/a-word-on-using-and-abusing-nuget/"]
 author: Xavier Decoster
 redirect_from:

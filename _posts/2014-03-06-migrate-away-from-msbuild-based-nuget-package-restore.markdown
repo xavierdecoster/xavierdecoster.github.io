@@ -5,7 +5,7 @@ date: 2014-03-06 09:07:46 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management"]
 alias: ["/2014/03/06/migrate-away-from-msbuild-based-nuget-package-restore/"]
 author: Xavier Decoster
 redirect_from:

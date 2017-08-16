@@ -5,7 +5,7 @@ date: 2010-10-08 16:57:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["C#","Silverlight","Open source"]
 alias: ["/2010/10/08/silverlight-4-data-binding-to-dynamic-datacontext/"]
 author: Xavier Decoster
 redirect_from:

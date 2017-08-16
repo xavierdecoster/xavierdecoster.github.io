@@ -5,7 +5,7 @@ date: 2013-04-30 17:06:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ReSharper","Visual Studio","Open source"]
 alias: ["/2013/04/30/a-resharper-plugin-to-detect-suspicious-semicolons-in-razor-views/"]
 author: Xavier Decoster
 redirect_from:

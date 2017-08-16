@@ -5,7 +5,7 @@ date: 2011-02-15 17:22:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Visual Studio"]
 alias: ["/2011/02/15/console-application-visual-studio-gotcha-on-x64-os/"]
 author: Xavier Decoster
 redirect_from:

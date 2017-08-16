@@ -5,7 +5,7 @@ date: 2012-04-26 21:38:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management"]
 alias: ["/2012/04/26/nuget-version-token-explained/"]
 author: Xavier Decoster
 redirect_from:

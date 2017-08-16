@@ -5,7 +5,7 @@ date: 2011-07-18 19:32:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","NuGet","Package Management"]
 alias: ["/2011/07/18/continuous-package-integration-nuget-vs-source-control/"]
 author: Xavier Decoster
 redirect_from:

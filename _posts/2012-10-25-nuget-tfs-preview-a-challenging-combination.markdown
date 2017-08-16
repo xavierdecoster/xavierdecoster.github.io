@@ -5,7 +5,7 @@ date: 2012-10-25 22:22:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","NuGet","TFS","Package Management"]
 alias: ["/2012/10/25/nuget-tfs-preview-a-challenging-combination/"]
 author: Xavier Decoster
 redirect_from:

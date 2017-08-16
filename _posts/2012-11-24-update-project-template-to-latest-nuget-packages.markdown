@@ -5,7 +5,7 @@ date: 2012-11-24 20:43:49 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Visual Studio","ASP.NET"]
 alias: ["/2012/11/24/update-project-template-to-latest-nuget-packages/"]
 author: Xavier Decoster
 redirect_from:
@@ -22,11 +22,14 @@ redirect_from:
 
 <p>As a direct consequence, this also means that the default templates become "outdated". Outdated is a strong word, as the template itself isn't really outdated, but rather the packages list it wants to consume from NuGet. jQuery is one of those packages that gets very frequent updates. There's an easy way to update all packages in a solution all at once. Use the Package Manager Console, type </p>
 
-
+
+
 <blockquote>
   <p>Update-Package</p>
-
-</blockquote>
+
+
+</blockquote>
+
 
 
 <p>and hit ENTER. Done!</p>
@@ -37,34 +40,43 @@ redirect_from:
 
 <p>All Visual Studio (2012) project templates can be found here:</p>
 
-
+
+
 <blockquote>
   <p>C:\Program Files (x86)\Microsoft
   Visual Studio
   11.0\Common7\IDE\ProjectTemplates\</p>
-
-</blockquote>
+
+
+</blockquote>
+
 
 
 <p>If you want to create some custom project templates, I'd recommend you to create them here:</p>
 
-
+
+
 <blockquote>
   <p>%USERPROFILE%\Documents\Visual Studio
   2012\Templates\ProjectTemplates</p>
-
-</blockquote>
+
+
+</blockquote>
+
 
 
 <p>In this post, I'll show you how you can change the defaults for the MVC4 CSHTML project template. You can find it here:</p>
 
-
+
+
 <blockquote>
   <p>C:\Program Files (x86)\Microsoft
   Visual Studio
   11.0\Common7\IDE\ProjectTemplates\CSharp\Web\1033\MvcWebApplicationProjectTemplatev4.0.cshtml\</p>
-
-</blockquote>
+
+
+</blockquote>
+
 
 
 <p>To modify the files, you'll have to edit them <strong>as Administrator</strong> (you know the drill, right-click Notepad++ or Sumblime and click Run As Administrator).</p>
@@ -99,21 +111,27 @@ redirect_from:
 
 <p>This is AFAIK a harmless example of things that can be left behind and out-of-sync with the package edits you make. Open the file (<em>run as administrator</em>) and update those references accordingly. The jQuery reference should now be the following:</p>
 
-
+
+
 <blockquote>
   <p>/// &lt;reference path="jquery-1.8.2.js" /&gt;</p>
-
-</blockquote>
+
+
+</blockquote>
+
 
 
 <p>Ever wondered why you didn't have to be online to be able to create a new MVC project and consume all those packages? Then check this folder and be amazed:</p>
 
-
+
+
 <blockquote>
   <p>C:\Program Files (x86)\Microsoft
   ASP.NET\ASP.NET MVC 4\Packages</p>
-
-</blockquote>
+
+
+</blockquote>
+
 
 
 <p>Obviously, the packages you want to support in your default project templates should be available there as well, so download those NuGet packages and extract them here. You can download the NuGet package after logging in to <a href="http://www.nuget.org">NuGet.org</a>: look for the package you want, select the version you need, and you'll notice a download link on the left side.</p>

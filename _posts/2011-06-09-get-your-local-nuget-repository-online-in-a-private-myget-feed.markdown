@@ -5,7 +5,7 @@ date: 2011-06-09 18:08:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","MyGet","Package Management"]
 alias: ["/2011/06/09/get-your-local-nuget-repository-online-in-a-private-myget-feed/"]
 author: Xavier Decoster
 redirect_from:

@@ -5,7 +5,7 @@ date: 2011-10-20 20:17:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Visual Studio","Package Management"]
 alias: ["/2011/10/20/install-nuget-command-line-extensions-using-the-package-manager-console-aspx/"]
 author: Xavier Decoster
 redirect_from:

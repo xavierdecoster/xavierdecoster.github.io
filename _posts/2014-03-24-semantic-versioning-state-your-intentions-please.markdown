@@ -5,7 +5,7 @@ date: 2014-03-24 00:00:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","SemVer","Package Management"]
 alias: ["/2014/03/24/semantic-versioning-state-your-intentions-please/"]
 author: Xavier Decoster
 redirect_from:
@@ -13,10 +13,13 @@ redirect_from:
  - /2014/03/24/semantic-versioning-state-your-intentions-please/.html
 ---
 <p><p>I'm quite a fan of Semantic Versioning (<a href="http://www.semver.org">SemVer</a>). It is the most pragmatic approach towards software versioning that I know of. If you don't know about SemVer, then you should go read the spec now. However, it is not perfect. Mostly because people are not perfect and some aspects of the specification can be interpreted differently. Actually, the spec itself is pointing this out – and I quote:
-</p>
+</p>
+
 <blockquote><p><span style="font-family:Arial; font-size:10pt">For this system to work, you first need to declare a public API. This may consist of documentation or be enforced by the code itself. Regardless, it is important that this API be clear and precise. Once you identify your public API, you communicate changes to it with specific increments to your version number.
-</span></p>
-</blockquote>
+</span></p>
+
+</blockquote>
+
 <p>Now, that's a big judgement call, isn't it? What is a public API? How do you define it in such way that it is clear to everyone without room for interpretation?
 </p><h1>Recap: the semantic version format
 </h1><p>I'm not going to explain the spec in detail here, but I want to quickly recap the most fundamental basics of it. SemVer has three version parts expressing semantics.

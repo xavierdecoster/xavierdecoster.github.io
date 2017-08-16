@@ -5,7 +5,7 @@ date: 2011-10-17 20:09:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","NuGet","TFS","Package Management"]
 alias: ["/2011/10/17/tell-tfs-not-to-add-nuget-packages-to-source-control/"]
 author: Xavier Decoster
 redirect_from:

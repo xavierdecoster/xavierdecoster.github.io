@@ -5,7 +5,7 @@ date: 2012-04-27 21:44:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management"]
 alias: ["/2012/04/27/install-package-nuspec-aspx/"]
 author: Xavier Decoster
 redirect_from:

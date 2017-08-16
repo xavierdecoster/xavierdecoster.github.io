@@ -5,7 +5,7 @@ date: 2011-10-10 20:04:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Community","NuGet","Package Management"]
 alias: ["/2011/10/10/agile-net-2011-europe-slidedeck-aspx/"]
 author: Xavier Decoster
 redirect_from:

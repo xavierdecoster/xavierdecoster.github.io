@@ -5,7 +5,7 @@ date: 2011-07-06 19:21:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management","Open source"]
 alias: ["/2011/07/06/nuget-package-explorer-extension-open-dlls-with-ilspy/"]
 author: Xavier Decoster
 redirect_from:

@@ -5,7 +5,7 @@ date: 2013-03-18 00:00:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management","Open source"]
 alias: ["/2013/03/18/introducing-a-nuget-exe-extension-for-package-source-discovery/"]
 author: Xavier Decoster
 redirect_from:

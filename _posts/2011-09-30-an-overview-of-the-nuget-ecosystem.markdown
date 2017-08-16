@@ -5,7 +5,7 @@ date: 2011-09-30 19:40:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Community","NuGet","Package Management"]
 alias: ["/2011/09/30/an-overview-of-the-nuget-ecosystem/"]
 author: Xavier Decoster
 redirect_from:

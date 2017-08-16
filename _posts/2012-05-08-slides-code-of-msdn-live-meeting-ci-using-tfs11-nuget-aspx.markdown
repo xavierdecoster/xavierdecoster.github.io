@@ -5,7 +5,7 @@ date: 2012-05-08 21:48:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Community","ALM","TFS","NuGet","Package Management"]
 alias: ["/2012/05/08/slides-code-of-msdn-live-meeting-ci-using-tfs11-nuget-aspx/"]
 author: Xavier Decoster
 redirect_from:

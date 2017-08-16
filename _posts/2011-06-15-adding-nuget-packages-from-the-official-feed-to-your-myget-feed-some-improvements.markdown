@@ -5,7 +5,7 @@ date: 2011-06-15 18:52:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","MyGet","Package Management"]
 alias: ["/2011/06/15/adding-nuget-packages-from-the-official-feed-to-your-myget-feed-some-improvements/"]
 author: Xavier Decoster
 redirect_from:

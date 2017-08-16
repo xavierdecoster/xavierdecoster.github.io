@@ -5,7 +5,7 @@ date: 2012-06-01 21:50:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Visual Studio"]
 alias: ["/2012/06/01/u-no-like-vs2012-shouting-menus-aspx/"]
 author: Xavier Decoster
 redirect_from:

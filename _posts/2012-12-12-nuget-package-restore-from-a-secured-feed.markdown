@@ -5,7 +5,7 @@ date: 2012-12-12 10:05:03 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","MyGet","Package Management"]
 alias: ["/2012/12/12/nuget-package-restore-from-a-secured-feed/"]
 author: Xavier Decoster
 redirect_from:

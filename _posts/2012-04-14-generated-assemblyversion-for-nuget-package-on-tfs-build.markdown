@@ -5,7 +5,7 @@ date: 2012-04-14 21:26:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","NuGet","TFS","Package Management"]
 alias: ["/2012/04/14/generated-assemblyversion-for-nuget-package-on-tfs-build/"]
 author: Xavier Decoster
 redirect_from:

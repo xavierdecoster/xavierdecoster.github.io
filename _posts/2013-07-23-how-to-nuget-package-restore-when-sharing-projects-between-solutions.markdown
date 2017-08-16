@@ -5,7 +5,7 @@ date: 2013-07-23 00:00:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ALM","NuGet","Package Management"]
 alias: ["/2013/07/23/how-to-nuget-package-restore-when-sharing-projects-between-solutions/"]
 author: Xavier Decoster
 redirect_from:
@@ -15,15 +15,21 @@ redirect_from:
 <p><p>Although it is a situation I try to avoid, it is not uncommon to share project files between solutions. If you are using NuGet package restore on these solutions, and one or more of these shared projects is consuming NuGet packages, you'll likely hit issues. <a href="http://stackoverflow.com/questions/17797052/nuget-not-getting-missing-packages">This StackOverflow question</a> is an illustration of exactly this problem.
 </p><h1>Symptoms
 </h1><p>Developer A:
-</p>
+</p>
+
 <blockquote><p> "I can't compile Solution2 anymore after pulling the latest version!"
-</p>
-</blockquote>
+</p>
+
+</blockquote>
+
 <p>Followed by:
-</p>
+</p>
+
 <blockquote><p>"That's strange… it works on my machine." – Developer B
-</p>
-</blockquote>
+</p>
+
+</blockquote>
+
 <p>Instantly followed by handing out a Pink Sombrero™ to Developer B: (yes, you broke the build! Hopefully…)
 </p><p><img src="/get/072313_2304_HowtoNuGetP1_635102175057965339.jpg" alt=""/>
     </p><p>Many teams have lost time debugging this issue, and although I already have quite <a href="/debugging-nuget-package-restore">an exhaustive checklist</a>, this particular issue is not covered as I never really had to deal with this one. I prefer to consume the NuGet package instead of sharing the project…

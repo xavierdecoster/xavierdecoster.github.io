@@ -5,7 +5,7 @@ date: 2012-06-08 22:07:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: [".NET","NuGet","MyGet","Package Management"]
 alias: ["/2012/06/08/distributing-net-licensed-components-using-nuget-aspx/"]
 author: Xavier Decoster
 redirect_from:

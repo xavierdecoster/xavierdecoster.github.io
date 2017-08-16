@@ -5,7 +5,7 @@ date: 2011-05-31 17:55:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["MyGet","Community","Package Management"]
 alias: ["/2011/05/31/announcing-myget/"]
 author: Xavier Decoster
 redirect_from:

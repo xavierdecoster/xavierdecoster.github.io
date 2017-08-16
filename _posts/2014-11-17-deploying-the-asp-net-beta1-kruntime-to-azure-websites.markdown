@@ -5,7 +5,7 @@ date: 2014-11-17 00:00:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["ASP.NET","Azure"]
 alias: ["/2014/11/17/deploying-the-asp-net-beta1-kruntime-to-azure-websites/"]
 author: Xavier Decoster
 redirect_from:

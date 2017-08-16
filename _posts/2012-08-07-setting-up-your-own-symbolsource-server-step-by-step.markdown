@@ -5,7 +5,7 @@ date: 2012-08-07 22:16:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Symbols"]
 alias: ["/2012/08/07/setting-up-your-own-symbolsource-server-step-by-step/"]
 author: Xavier Decoster
 redirect_from:

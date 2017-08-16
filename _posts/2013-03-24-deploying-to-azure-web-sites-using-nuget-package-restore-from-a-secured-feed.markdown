@@ -5,7 +5,7 @@ date: 2013-03-24 00:00:00 +0100
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["Azure","NuGet","Package Management"]
 alias: ["/2013/03/24/deploying-to-azure-web-sites-using-nuget-package-restore-from-a-secured-feed/"]
 author: Xavier Decoster
 redirect_from:

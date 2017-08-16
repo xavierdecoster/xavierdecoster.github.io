@@ -5,7 +5,7 @@ date: 2012-05-06 21:46:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management"]
 alias: ["/2012/05/06/create-auto-build-and-push-a-nuget-package-anywhere-aspx/"]
 author: Xavier Decoster
 redirect_from:

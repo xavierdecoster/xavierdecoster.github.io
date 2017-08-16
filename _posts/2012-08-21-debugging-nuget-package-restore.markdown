@@ -5,7 +5,7 @@ date: 2012-08-21 22:18:00 +0200
 comments: true
 published: true
 categories: ["post"]
-tags: []
+tags: ["NuGet","Package Management"]
 alias: ["/2012/08/21/debugging-nuget-package-restore/"]
 author: Xavier Decoster
 redirect_from:
