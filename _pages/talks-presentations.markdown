@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Talks & Presentations"
 date: 2017-08-16 13:45:00 +0200
 comments: false
