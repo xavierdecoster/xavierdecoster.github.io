@@ -61,3 +61,4 @@ RewriteRule ^["/2014/03/24/semantic-versioning-state-your-intentions-please/"]$ 
 RewriteRule ^["/2014/04/17/using-myget-as-a-oneget-package-source/"]$ /post/2014/04/17/using-myget-as-a-oneget-package-source.html [R=301,NC]
 RewriteRule ^["/2014/11/17/deploying-the-asp-net-beta1-kruntime-to-azure-websites/"]$ /post/2014/11/17/deploying-the-asp-net-beta1-kruntime-to-azure-websites.html [R=301,NC]
 RewriteRule ^["/2015/01/27/joining-microsoft/"]$ /post/2015/01/27/joining-microsoft.html [R=301,NC]
+RewriteRule ^["/semantic-versioning-auto-incremented-nuget-package-versions"]$ /post/2013/04/29/semantic-versioning-auto-incremented-nuget-package-versions.html [R=301,NC]
