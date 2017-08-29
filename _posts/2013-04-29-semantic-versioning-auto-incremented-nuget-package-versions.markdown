@@ -10,7 +10,7 @@ alias: ["/2013/04/29/semantic-versioning-auto-incremented-nuget-package-versions
 author: Xavier Decoster
 redirect_from:
  - /2013/04/29/semantic-versioning-auto-incremented-nuget-package-versions/.html
- - /2013/04/29/semantic-versioning-auto-incremented-nuget-package-versions/.html
+ - /semantic-versioning-auto-incremented-nuget-package-versions
 ---
 <p><p>Any NuGet package is uniquely identified by a <em>package ID</em> and a <em>version</em>. If you've been to one of my talks or follow my blog, you know I'm quite a fan of <a href="http://semver.org">semantic versioning</a>. I even wrote <a href="/nuget-package-analysis-encouraging-semantic-versioning">a NuGet package analysis rule</a> for it, which is now also built-in as <a href="http://blog.myget.org/post/2013/03/16/Require-semantic-versioning-for-packages-pushed-to-your-feed.aspx">a MyGet feed setting</a>. Versioning a NuGet package is fairly easy – stamping a NuGet package with a version, how hard can it be? – but when applied <em>continuously</em> as part of your automated builds, it might mess with your mind at some point.
 </p><h1>Contradictio in terminis: auto-versioning a yet unknown semantic version
