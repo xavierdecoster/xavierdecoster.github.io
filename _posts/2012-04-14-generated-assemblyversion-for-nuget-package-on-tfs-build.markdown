@@ -10,7 +10,7 @@ alias: ["/2012/04/14/generated-assemblyversion-for-nuget-package-on-tfs-build/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/04/14/generated-assemblyversion-for-nuget-package-on-tfs-build/.html
- - /2012/04/14/generated-assemblyversion-for-nuget-package-on-tfs-build/.html
+ - /generated-assemblyversion-for-nuget-package-on-tfs-build
 ---
 <h2>Goal: SemVer &amp; auto-incremented build number on package &amp; project output</h2>
 

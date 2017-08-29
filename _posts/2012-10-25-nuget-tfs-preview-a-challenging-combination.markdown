@@ -10,7 +10,7 @@ alias: ["/2012/10/25/nuget-tfs-preview-a-challenging-combination/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/10/25/nuget-tfs-preview-a-challenging-combination/.html
- - /2012/10/25/nuget-tfs-preview-a-challenging-combination/.html
+ - /nuget-tfs-preview-a-challenging-combination
 ---
 <p>I've recently spent some time trying to come up with an end-to-end demo of using <a href="http://www.nuget.org" target="_blank">NuGet</a> on <a href="http://www.tfspreview.com" target="_blank">TFS Preview</a>, and I wanted to share you my findings.</p>
 

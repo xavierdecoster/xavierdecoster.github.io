@@ -10,7 +10,7 @@ alias: ["/2011/06/15/adding-nuget-packages-from-the-official-feed-to-your-myget-
 author: Xavier Decoster
 redirect_from:
  - /2011/06/15/adding-nuget-packages-from-the-official-feed-to-your-myget-feed-some-improvements/.html
- - /2011/06/15/adding-nuget-packages-from-the-official-feed-to-your-myget-feed-some-improvements/.html
+ - /adding-nuget-packages-from-the-official-feed-to-your-myget-feed-some-improvements
 ---
 <p>One of the things we want to improve on <a href="http://www.myget.org" target="_blank">MyGet</a> is the add-package functionality from the official <a href="http://www.nuget.org" target="_blank">NuGet</a> feed. We felt this user experience could be better, so here's a first step!</p>
 

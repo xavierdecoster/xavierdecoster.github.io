@@ -10,7 +10,7 @@ alias: ["/2011/10/10/agile-net-2011-europe-slidedeck-aspx/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/10/10/agile-net-2011-europe-slidedeck-aspx/.html
- - /2011/10/10/agile-net-2011-europe-slidedeck-aspx/.html
+ - /agile-net-2011-europe-slidedeck
 ---
 <p><input type="hidden" value="{EAV_BLOG_VER:3a47b38bce3f536c}" /></p>
 

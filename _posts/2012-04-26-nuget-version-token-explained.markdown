@@ -10,7 +10,7 @@ alias: ["/2012/04/26/nuget-version-token-explained/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/04/26/nuget-version-token-explained/.html
- - /2012/04/26/nuget-version-token-explained/.html
+ - /nuget-version-token-explained
 ---
 <p>Many questions that often come to mind when building <a href="http://www.nuget.org" target="_blank">NuGet</a> packages are related to versioning. There's one question in particular I'd like to post here because it's one of the easier to answer. The question is: <strong>How do I use the <em>$version$</em> token in the NuGet manifest (nuspec) file? Where does it get the version number from?</strong></p>
 

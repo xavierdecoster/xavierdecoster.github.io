@@ -10,7 +10,7 @@ alias: ["/2012/03/01/myget-tops-vanilla-nuget-feeds-with-a-chocolatey-flavor/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/03/01/myget-tops-vanilla-nuget-feeds-with-a-chocolatey-flavor/.html
- - /2012/03/01/myget-tops-vanilla-nuget-feeds-with-a-chocolatey-flavor/.html
+ - /myget-tops-vanilla-nuget-feeds-with-a-chocolatey-flavor
 ---
 <p>We recently deployed an all new version of <a href="http://www.myget.org" target="_blank">MyGet.org</a>, which contains quite a lot of optimizations and some new features as well. If you didn't notice, go check it out!</p>
 

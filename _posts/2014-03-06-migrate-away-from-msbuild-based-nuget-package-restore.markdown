@@ -10,7 +10,7 @@ alias: ["/2014/03/06/migrate-away-from-msbuild-based-nuget-package-restore/"]
 author: Xavier Decoster
 redirect_from:
  - /2014/03/06/migrate-away-from-msbuild-based-nuget-package-restore/.html
- - /2014/03/06/migrate-away-from-msbuild-based-nuget-package-restore/.html
+ - /migrate-away-from-msbuild-based-nuget-package-restore
 ---
 <h1>Back in the days...</h1>
 

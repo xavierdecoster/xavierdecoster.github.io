@@ -10,7 +10,7 @@ alias: ["/2011/03/31/upgrading-nugetexe-to-v12-aspx/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/03/31/upgrading-nugetexe-to-v12-aspx/.html
- - /2011/03/31/upgrading-nugetexe-to-v12-aspx/.html
+ - /upgrading-nugetexe-to-v12
 ---
 <p>Yesterday, <a href="http://haacked.com/archive/2011/03/30/nuget-1-2-released.aspx" target="_blank">Phil Haack announced</a> version 1.2 of NuGet.</p>
 

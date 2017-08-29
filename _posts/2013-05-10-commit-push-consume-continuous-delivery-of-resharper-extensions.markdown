@@ -10,7 +10,7 @@ alias: ["/2013/05/10/commit-push-consume-continuous-delivery-of-resharper-extens
 author: Xavier Decoster
 redirect_from:
  - /2013/05/10/commit-push-consume-continuous-delivery-of-resharper-extensions/.html
- - /2013/05/10/commit-push-consume-continuous-delivery-of-resharper-extensions/.html
+ - /commit-push-consume-continuous-delivery-of-resharper-extensions
 ---
 <p><p>I've recently <a href="/a-resharper-plugin-to-detect-suspicious-semicolons-in-razor-views">announced my ReSharper Razor plugin</a> and published the EAP package to the brand new ReSharper Plugin feed. I've originally built it against the ReSharper 7 SDK and only recently added support for the <a href="http://confluence.jetbrains.com/display/ReSharper/ReSharper+8+EAP">ReSharper 8 EAP SDK</a>. One of the questions I asked myself when I built the R# 7 version was: how do I ship it? I was quite thrilled to receive an email from Matt Ellis (<a href="https://twitter.com/citizenmatt">@citizenmatt</a>) inviting me to take a look at the latest SDK bits which included the new NuGet-based Extension Manager! In this post I want to show you how I'm using free tools to develop, build, package, test &amp; publish a ReSharper plugin.
 </p><h1>The missing link?

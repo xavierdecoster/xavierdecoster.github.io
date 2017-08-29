@@ -10,7 +10,7 @@ alias: ["/2011/05/31/announcing-myget/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/05/31/announcing-myget/.html
- - /2011/05/31/announcing-myget/.html
+ - /announcing-myget
 ---
 <p>Ever since the announcement of <a href="http://www.nuget.org" target="_blank">NuGet</a> I've been intrigued by the potential it could bring to enterprises building software on the .NET platform (<a href="http://www.hanselman.com/blog/NuGetForTheEnterpriseNuGetInAContinuousIntegrationAutomatedBuildSystem.aspx" target="_blank">one could call them big boring companies</a>). I considered setting up a private NuGet server at both <a href="http://www.realdolmen.com" target="_blank">RealDolmen</a> (my employer) and one of our customers, and it happens to be that many colleagues found it a great idea, including <a href="http://blog.maartenballiauw.be" target="_blank">Maarten Balliauw</a>. We got talking during <a href="http://www.microsoft.com/belux/techdays/2011/" target="_blank">TechDays Belgium</a> about how useful this could be at our company, and at some customer locations, and if you know Maarten a bit, you can expect we ended up quite fast with our heads in the cloud!</p>
 

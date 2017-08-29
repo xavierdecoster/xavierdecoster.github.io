@@ -10,7 +10,7 @@ alias: ["/2013/09/26/install-nuspec-with-intellisense/"]
 author: Xavier Decoster
 redirect_from:
  - /2013/09/26/install-nuspec-with-intellisense/.html
- - /2013/09/26/install-nuspec-with-intellisense/.html
+ - /install-nuspec-with-intellisense
 ---
 <p>If you have quite a few projects you want to get out on NuGet for the first time, it can be a little confusing to find a good starting point. My recommendation usually is to simply create a <a href="http://docs.nuget.org/docs/reference/nuspec-reference#Replacement_Tokens" target="_blank">tokenized</a> NuSpec and package your projects. Target a csproj file, and make sure there's a nuspec file in the same directory with the same name as the csproj file. NuGet will merge the two during package creation.</p>
 

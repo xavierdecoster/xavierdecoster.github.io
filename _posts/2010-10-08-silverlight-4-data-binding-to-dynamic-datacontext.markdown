@@ -10,7 +10,7 @@ alias: ["/2010/10/08/silverlight-4-data-binding-to-dynamic-datacontext/"]
 author: Xavier Decoster
 redirect_from:
  - /2010/10/08/silverlight-4-data-binding-to-dynamic-datacontext/.html
- - /2010/10/08/silverlight-4-data-binding-to-dynamic-datacontext/.html
+ - /silverlight-4-data-binding-to-dynamic-datacontext
 ---
 <p>If you ever want to build a Silverlight control that supports TwoWay <a title="data binding in Silverlight (MSDN)" href="http://msdn.microsoft.com/en-us/library/cc278072(VS.95).aspx" target="_blank">data binding</a> on a dynamic object, you might hit the same issues as I did, so I hope this post is useful for at least some of you.</p>
 

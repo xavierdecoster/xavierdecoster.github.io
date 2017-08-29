@@ -10,7 +10,7 @@ alias: ["/2012/02/10/resharper-plug-in-minify-xml-aspx/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/02/10/resharper-plug-in-minify-xml-aspx/.html
- - /2012/02/10/resharper-plug-in-minify-xml-aspx/.html
+ - /resharper-plug-in-minify-xml
 ---
 <h1>The Problem</h1>
 

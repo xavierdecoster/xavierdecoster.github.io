@@ -10,7 +10,7 @@ alias: ["/2011/02/15/console-application-visual-studio-gotcha-on-x64-os/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/02/15/console-application-visual-studio-gotcha-on-x64-os/.html
- - /2011/02/15/console-application-visual-studio-gotcha-on-x64-os/.html
+ - /console-application-visual-studio-gotcha-on-x64-os
 ---
 <p>I was playing around a bit with <a href="http://entlib.codeplex.com/" target="_blank">Enterprise Library 5.0</a> and it's Logging block. I figured it would be a very simple scenario: Enterprise Library is there to assist us with the most common practices isn't it?</p>
 

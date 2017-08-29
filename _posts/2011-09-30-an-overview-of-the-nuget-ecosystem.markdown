@@ -10,7 +10,7 @@ alias: ["/2011/09/30/an-overview-of-the-nuget-ecosystem/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/09/30/an-overview-of-the-nuget-ecosystem/.html
- - /2011/09/30/an-overview-of-the-nuget-ecosystem/.html
+ - /an-overview-of-the-nuget-ecosystem
 ---
 <p>Many people are starting to realize what an awesome tool NuGet really is. If you don't believe me, just take a look the <a href="http://stats.nuget.org" target="_blank">statistics</a>. Looking at the NuGet ecosystem out there, I figured it might be a good idea to summarize it in a blogpost, for those who are experiencing trouble trying to keep up. If you don't know where to start, check the overview below and head over to the <a href="http://docs.nuget.org" target="_blank">NuGet documentation</a>.</p>
 

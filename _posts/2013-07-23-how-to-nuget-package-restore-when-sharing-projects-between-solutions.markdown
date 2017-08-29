@@ -10,7 +10,7 @@ alias: ["/2013/07/23/how-to-nuget-package-restore-when-sharing-projects-between-
 author: Xavier Decoster
 redirect_from:
  - /2013/07/23/how-to-nuget-package-restore-when-sharing-projects-between-solutions/.html
- - /2013/07/23/how-to-nuget-package-restore-when-sharing-projects-between-solutions/.html
+ - /how-to-nuget-package-restore-when-sharing-projects-between-solutions
 ---
 <p><p>Although it is a situation I try to avoid, it is not uncommon to share project files between solutions. If you are using NuGet package restore on these solutions, and one or more of these shared projects is consuming NuGet packages, you'll likely hit issues. <a href="http://stackoverflow.com/questions/17797052/nuget-not-getting-missing-packages">This StackOverflow question</a> is an illustration of exactly this problem.
 </p><h1>Symptoms

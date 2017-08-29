@@ -10,7 +10,7 @@ alias: ["/2013/01/17/warm-crocodile-conference-slides/"]
 author: Xavier Decoster
 redirect_from:
  - /2013/01/17/warm-crocodile-conference-slides/.html
- - /2013/01/17/warm-crocodile-conference-slides/.html
+ - /warm-crocodile-conference-slides
 ---
 <p>I'm really happy I got the opportunity to talk at the Danish Warm Crocodile Conference this week. I loved the enthousiasm and interactivity with the audience, asking some really good questions as well (resulting in some of you getting a free copy of our <a href="http://bit.ly/ProNuGet">Pro NuGet</a> book), so thanks for that Dear Audience!</p>
 

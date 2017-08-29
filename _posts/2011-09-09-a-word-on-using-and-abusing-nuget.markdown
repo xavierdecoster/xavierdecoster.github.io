@@ -10,7 +10,7 @@ alias: ["/2011/09/09/a-word-on-using-and-abusing-nuget/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/09/09/a-word-on-using-and-abusing-nuget/.html
- - /2011/09/09/a-word-on-using-and-abusing-nuget/.html
+ - /a-word-on-using-and-abusing-nuget
 ---
 <p>One thing I really like about using NuGet is the fact that it creates a window of opportunities: you can use it in different ways, you can abuse it in different ways. Whether you use it, or you abuse it (read: use it in a different way than it was intended to be used), that's totally up to you. However, there are some common pitfalls I've noticed people struggling with when taking things to the next level.</p>
 

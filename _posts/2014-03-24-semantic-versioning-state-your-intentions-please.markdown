@@ -10,7 +10,7 @@ alias: ["/2014/03/24/semantic-versioning-state-your-intentions-please/"]
 author: Xavier Decoster
 redirect_from:
  - /2014/03/24/semantic-versioning-state-your-intentions-please/.html
- - /2014/03/24/semantic-versioning-state-your-intentions-please/.html
+ - /semantic-versioning-state-your-intentions-please
 ---
 <p><p>I'm quite a fan of Semantic Versioning (<a href="http://www.semver.org">SemVer</a>). It is the most pragmatic approach towards software versioning that I know of. If you don't know about SemVer, then you should go read the spec now. However, it is not perfect. Mostly because people are not perfect and some aspects of the specification can be interpreted differently. Actually, the spec itself is pointing this out – and I quote:
 </p>

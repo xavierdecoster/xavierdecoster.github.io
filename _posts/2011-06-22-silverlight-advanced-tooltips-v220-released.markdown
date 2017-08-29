@@ -10,7 +10,7 @@ alias: ["/2011/06/22/silverlight-advanced-tooltips-v220-released/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/06/22/silverlight-advanced-tooltips-v220-released/.html
- - /2011/06/22/silverlight-advanced-tooltips-v220-released/.html
+ - /silverlight-advanced-tooltips-v220-released
 ---
 <p>This release mainly contains bugfixes for issues reported by users of the library (and a big thanks to all those who even bothered supplying me with a patch!).</p>
 

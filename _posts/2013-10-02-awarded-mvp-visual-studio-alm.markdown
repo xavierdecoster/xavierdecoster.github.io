@@ -10,7 +10,7 @@ alias: ["/2013/10/02/awarded-mvp-visual-studio-alm/"]
 author: Xavier Decoster
 redirect_from:
  - /2013/10/02/awarded-mvp-visual-studio-alm/.html
- - /2013/10/02/awarded-mvp-visual-studio-alm/.html
+ - /awarded-mvp-visual-studio-alm
 ---
 <p>I was quite thrilled and surprised yesterday to receive an email notification with the subject "<i>Congratulations 2013 Microsoft MVP!</i>".<br/></p>
 

@@ -10,7 +10,7 @@ alias: ["/2012/02/10/meet-the-community-at-techdays-belgium-2012-aspx/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/02/10/meet-the-community-at-techdays-belgium-2012-aspx/.html
- - /2012/02/10/meet-the-community-at-techdays-belgium-2012-aspx/.html
+ - /meet-the-community-at-techdays-belgium-2012
 ---
 <p>For those who weren&rsquo;t aware yet, next week, &ldquo;<a href="http://weblogs.asp.net/scottgu/archive/2012/01/29/techdays-in-belgium-and-netherlands.aspx" target="_blank">Gu Almighty</a>&rdquo; is paying our little country a visit during the 10th anniversary edition of <a href="http://www.microsoft.com/belux/techdays/2012/Home.aspx" target="_blank">TechDays Belgium</a>.&nbsp; Besides looking forward to what Scott has to say, it&rsquo;s also a good time to <a href="http://www.microsoft.com/belux/techdays/2012/Sessions.aspx" target="_blank">look at the conference agenda</a> and put a marker next to some must-attend sessions.</p>
 

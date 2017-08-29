@@ -10,7 +10,7 @@ alias: ["/2011/10/07/nuget-analyze-now-available-as-command-line-extension-aspx/
 author: Xavier Decoster
 redirect_from:
  - /2011/10/07/nuget-analyze-now-available-as-command-line-extension-aspx/.html
- - /2011/10/07/nuget-analyze-now-available-as-command-line-extension-aspx/.html
+ - /nuget-analyze-now-available-as-command-line-extension
 ---
 <p><strong>2011-10-20 Edit: the NuGet.Analyze.Installer package is now obsolete, as explained in <a href="/post/2011/10/20/Install-NuGet-command-line-extensions-using-the-Package-Manager-Console.html" target="_blank">this post</a>. Use the more generic installation procedure provided by the NuGet.InstallCommandLineExtension package instead.</strong></p>
 

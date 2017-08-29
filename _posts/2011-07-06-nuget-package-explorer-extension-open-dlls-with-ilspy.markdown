@@ -10,7 +10,7 @@ alias: ["/2011/07/06/nuget-package-explorer-extension-open-dlls-with-ilspy/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/07/06/nuget-package-explorer-extension-open-dlls-with-ilspy/.html
- - /2011/07/06/nuget-package-explorer-extension-open-dlls-with-ilspy/.html
+ - /nuget-package-explorer-extension-open-dlls-with-ilspy
 ---
 <p>One of the things I find useful is being able to decompile an assembly and explore its inner workings. I bet you all are familiar with such tools as <a href="http://www.jetbrains.com/decompiler/" target="_blank">DotPeek</a>, <a href="http://wiki.sharpdevelop.net/ILSpy.ashx" target="_blank">ILSpy</a>, and the evil one which shall remain unnamed..</p>
 

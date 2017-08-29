@@ -10,7 +10,7 @@ alias: ["/2012/05/06/create-auto-build-and-push-a-nuget-package-anywhere-aspx/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/05/06/create-auto-build-and-push-a-nuget-package-anywhere-aspx/.html
- - /2012/05/06/create-auto-build-and-push-a-nuget-package-anywhere-aspx/.html
+ - /create-auto-build-and-push-a-nuget-package-anywhere
 ---
 <p>This short post is basically combining some of my recent posts (<a href="/post/2012/04/27/Install-Package-NuSpec.html" target="_blank">this</a> one and <a href="/post/2012/04/14/Generated-AssemblyVersion-for-NuGet-package-on-TFS-Build.html" target="_blank">that</a> one) into one. Actually, into one single NuGet package :) </p>
 

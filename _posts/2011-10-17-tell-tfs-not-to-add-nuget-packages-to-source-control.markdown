@@ -10,7 +10,7 @@ alias: ["/2011/10/17/tell-tfs-not-to-add-nuget-packages-to-source-control/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/10/17/tell-tfs-not-to-add-nuget-packages-to-source-control/.html
- - /2011/10/17/tell-tfs-not-to-add-nuget-packages-to-source-control/.html
+ - /tell-tfs-not-to-add-nuget-packages-to-source-control
 ---
 <p>I recently came accross a tweet asking for help, because TFS was always adding the installed NuGet package binaries into source control automatically. Especially when you want to use <a href="http://www.nuget.org" target="_blank">NuGet</a> with <a href="/post/2011/07/18/Continuous-Package-Integration-NuGet-vs-Source-Control.html" target="_blank">a no-commit strategy</a>, this can be fairly annoying. I also realize a DVCS is using the concept of a .ignore file or something similar, which I really like, but this is not the concept TFS uses. So for those on TFS source control, here's my workaround...</p>
 

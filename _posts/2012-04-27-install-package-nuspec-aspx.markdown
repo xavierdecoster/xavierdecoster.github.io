@@ -10,7 +10,7 @@ alias: ["/2012/04/27/install-package-nuspec-aspx/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/04/27/install-package-nuspec-aspx/.html
- - /2012/04/27/install-package-nuspec-aspx/.html
+ - /install-package-nuspec
 ---
 <p>If you are like me and regularly produce NuGet packages, then you often deal with NuSpec files. I always found it annoying that I had to leave my Visual Studio environment in order to create a .nuspec file. Well, I've finally automated this step and published it on <a href="https://github.com/xavierdecoster/NuGetPackages/tree/master/NuSpec" target="_blank">Github</a> and on the <a href="https://nuget.org/packages/NuSpec" target="_blank">NuGet Gallery</a>. Feel free to fork it, contribute and provide feedback!</p>
 

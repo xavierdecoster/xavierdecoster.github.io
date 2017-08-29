@@ -10,7 +10,7 @@ alias: ["/2012/01/23/slides-for-ugialtnet-nuget-aspx/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/01/23/slides-for-ugialtnet-nuget-aspx/.html
- - /2012/01/23/slides-for-ugialtnet-nuget-aspx/.html
+ - /slides-for-ugialtnet-nuget
 ---
 <p>Whilst I've been sharing this wonderful EasyJet experience with <a href="http://blog.maartenballiauw.be/post/2012/01/23/Slides-for-UGIALTNET-SignalR.aspx" target="_blank">Maarten Balliauw</a> (flight delayed for 4hrs because they had to fly in a new plane with spare parts, wtf?), I enjoyed this weekends trip to Milano very much! Good* <em>coffee, great pizza,</em> aperitivo a la Milanese* (!), but above all: awesome audience! Thanks to everyone who joined my session during the <a href="http://www.ugialt.net" target="_blank">UgiAlt.Net</a> conference in this nice city!</p>
 

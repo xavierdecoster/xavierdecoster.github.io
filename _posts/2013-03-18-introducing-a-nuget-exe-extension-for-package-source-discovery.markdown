@@ -10,7 +10,7 @@ alias: ["/2013/03/18/introducing-a-nuget-exe-extension-for-package-source-discov
 author: Xavier Decoster
 redirect_from:
  - /2013/03/18/introducing-a-nuget-exe-extension-for-package-source-discovery/.html
- - /2013/03/18/introducing-a-nuget-exe-extension-for-package-source-discovery/.html
+ - /introducing-a-nuget-exe-extension-for-package-source-discovery
 ---
 <p><p>As we have reached 1500 NuGet feeds on <a href="http://www.myget.org">MyGet</a> for the first time – with some great stuff in our <a href="http://www.myget.org/gallery">Gallery</a> - we felt it's about time we make it even easier for people to discover them. Where NuGet makes it easy to discover packages, we want to push it further and make it easier to discover package sources as well. We've had numerous discussions with several people closely involved with the NuGet project and are quite happy with the outcome of our combined efforts: the NuGet <a href="http://psd.myget.org">Package Source Discovery</a> (PSD) spec. Thanks again <a href="http://www.hanselman.com/" target="_blank">Scott</a>, <a href="http://www.haacked.com" target="_blank">Phil</a>, <a href="http://jeffhandley.com" target="_blank">Jeff</a> and <a href="http://codebetter.com/howarddierking/" target="_blank">Howard</a> for your most valuable input and feedback! Be sure to check the <a href="http://blog.maartenballiauw.be/post/2013/03/18/NuGet-Package-Source-Discovery.aspx">announcement on Maarten's blog</a>!
 </p><h1>The Spec

@@ -10,7 +10,7 @@ alias: ["/2011/11/13/gently-phase-out-support-for-older-nuget-packages-with-myge
 author: Xavier Decoster
 redirect_from:
  - /2011/11/13/gently-phase-out-support-for-older-nuget-packages-with-myget-aspx/.html
- - /2011/11/13/gently-phase-out-support-for-older-nuget-packages-with-myget-aspx/.html
+ - /gently-phase-out-support-for-older-nuget-packages-with-myget
 ---
 <p>Simply deleting those packages is most likely not the best option. You probably have no idea of who still depends on them, either directly or through another package depending on it, even though you could try to <a href="/post/2011/10/06/Generate-package-dependency-matrix-directly-from-TFS-source-control.html" target="_blank">analyze your source control repositories</a> and get some first insights.</p>
 

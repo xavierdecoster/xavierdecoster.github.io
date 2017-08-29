@@ -10,7 +10,7 @@ alias: ["/2011/06/15/myget-now-compatible-with-nuget-package-explorer-v15/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/06/15/myget-now-compatible-with-nuget-package-explorer-v15/.html
- - /2011/06/15/myget-now-compatible-with-nuget-package-explorer-v15/.html
+ - /myget-now-compatible-with-nuget-package-explorer-v15
 ---
 <p>Most of you will agree that <a href="http://nuget.codeplex.com/releases/view/59864" target="_blank">Package Explorer</a> is a major part within the <a href="http://www.nuget.org" target="_blank">NuGet</a> ecosystem. In preparation for the latest version 1.5 release, Luan Nguyen (aka <a href="http://twitter.com/#!/dotnetjunky" target="_blank">dotNetJunky</a>) pointed us to an incompatibility issue with <a href="http://www.myget.org" target="_blank">MyGet</a> (thanks again for that!).</p>
 

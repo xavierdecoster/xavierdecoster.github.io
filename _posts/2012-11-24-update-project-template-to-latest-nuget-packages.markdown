@@ -10,7 +10,7 @@ alias: ["/2012/11/24/update-project-template-to-latest-nuget-packages/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/11/24/update-project-template-to-latest-nuget-packages/.html
- - /2012/11/24/update-project-template-to-latest-nuget-packages/.html
+ - /update-project-template-to-latest-nuget-packages
 ---
 <p>Today I noticed <a href="http://stackoverflow.com/questions/13532909/update-default-nuget-packages">a question on StackOverflow</a> that proved I wasn't the only one finding it a little sub-optimal having to update NuGet packages right after creating a new project.</p>
 

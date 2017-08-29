@@ -10,7 +10,7 @@ alias: ["/2012/06/08/distributing-net-licensed-components-using-nuget-aspx/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/06/08/distributing-net-licensed-components-using-nuget-aspx/.html
- - /2012/06/08/distributing-net-licensed-components-using-nuget-aspx/.html
+ - /distributing-net-licensed-components-using-nuget
 ---
 <p>If you are building components that are licensed using the <a href="http://www.codeguru.com/csharp/.net/net_framework/licensing/article.php/c5469/Licensed-Applications-using-the-NET-Framework.htm" target="_blank">.NET Licensing Model</a>, you might have been looking for a way to take benefit from <a href="http://www.nuget.org" target="_blank">NuGet</a> as a distribution mechanism.</p>
 

@@ -10,7 +10,7 @@ alias: ["/2011/07/18/continuous-package-integration-nuget-vs-source-control/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/07/18/continuous-package-integration-nuget-vs-source-control/.html
- - /2011/07/18/continuous-package-integration-nuget-vs-source-control/.html
+ - /continuous-package-integration-nuget-vs-source-control
 ---
 <p><strong>Update (August 17, 2011):</strong></p>
 

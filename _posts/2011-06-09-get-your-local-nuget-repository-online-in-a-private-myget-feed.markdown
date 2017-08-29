@@ -10,7 +10,7 @@ alias: ["/2011/06/09/get-your-local-nuget-repository-online-in-a-private-myget-f
 author: Xavier Decoster
 redirect_from:
  - /2011/06/09/get-your-local-nuget-repository-online-in-a-private-myget-feed/.html
- - /2011/06/09/get-your-local-nuget-repository-online-in-a-private-myget-feed/.html
+ - /get-your-local-nuget-repository-online-in-a-private-myget-feed
 ---
 <p>One of the <a href="http://www.myget.org" target="_blank">MyGet</a> features I've been working on lately should make it easier to populate your private feed with the NuGet packages you want.</p>
 

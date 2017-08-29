@@ -10,7 +10,7 @@ alias: ["/2011/10/20/install-nuget-command-line-extensions-using-the-package-man
 author: Xavier Decoster
 redirect_from:
  - /2011/10/20/install-nuget-command-line-extensions-using-the-package-manager-console-aspx/.html
- - /2011/10/20/install-nuget-command-line-extensions-using-the-package-manager-console-aspx/.html
+ - /install-nuget-command-line-extensions-using-the-package-manager-console
 ---
 <p>It's quite late into the night over here, and the blog post is quite abstract, so please bare with me on this one :-)</p>
 

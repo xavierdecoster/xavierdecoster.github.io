@@ -10,7 +10,7 @@ alias: ["/2013/01/14/team-foundation-services-binaries-folder/"]
 author: Xavier Decoster
 redirect_from:
  - /2013/01/14/team-foundation-services-binaries-folder/.html
- - /2013/01/14/team-foundation-services-binaries-folder/.html
+ - /team-foundation-services-binaries-folder
 ---
 <p>In order to add some custom post-build steps to a TFS Build process, it usually comes in handy - might sound as a surprise - to get a hold on the produced output of that build. If you're familiar with Team Foundation Server and the way it deals with the project output, you know I'm talking about the infamous "Binaries" folder where all produced output gets copied to.</p>
 

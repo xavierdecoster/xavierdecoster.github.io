@@ -10,7 +10,7 @@ alias: ["/2013/01/31/nuget-package-analysis-encouraging-semantic-versioning/"]
 author: Xavier Decoster
 redirect_from:
  - /2013/01/31/nuget-package-analysis-encouraging-semantic-versioning/.html
- - /2013/01/31/nuget-package-analysis-encouraging-semantic-versioning/.html
+ - /nuget-package-analysis-encouraging-semantic-versioning
 ---
 <p><p>If you've been in one of my recent talks or follow my blog or Twitter ramblings, you might have noticed I'm quite a fan of adhering to the <a href="http://semver.org">Semantic Versioning</a> specification. I find it particularly useful as a means to communicate changes in your API towards your package consumers who in turn will be able to set proper expectations about what they'll get when updating a certain package. It also enables NuGet to be smarter about package updates (e.g. Update-Package <a href="http://docs.nuget.org/docs/reference/package-manager-console-powershell-reference">–Safe</a>). So in short, I don't see any reason to deviate from SemVer.
 </p><p>However, not everyone knows about SemVer and definitely not all of us are applying the SemVer scheme to the packages they produce. Simply take a look at the <a href="http://www.nuget.org">NuGet Gallery</a> and look for a package that has a non-SemVer version, it will take you less than a page scroll to find one (e.g. a version in the MSDN format <a href="http://msdn.microsoft.com/en-us/library/51ket42z.aspx">major.minor.build.revision</a>).

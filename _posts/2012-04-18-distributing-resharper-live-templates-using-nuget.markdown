@@ -10,7 +10,7 @@ alias: ["/2012/04/18/distributing-resharper-live-templates-using-nuget/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/04/18/distributing-resharper-live-templates-using-nuget/.html
- - /2012/04/18/distributing-resharper-live-templates-using-nuget/.html
+ - /distributing-resharper-live-templates-using-nuget
 ---
 <p>In one of my recent projects I created some <a href="http://www.jetbrains.com/resharper/features/code_templates.html" target="_blank">ReSharper Live Templates</a> in order for other developers to easily create some code using a predefined class template. Live templates can significantly speed up the implementation of such classes, because developers only need to provide some minimal information (such as the class name and maybe some generic type parameters and such). There€™s also less room for accidental copy-pasting. Yeah, pressing CTRL+V after CTRL-C should be mapped to some macro that makes Visual Studio crash! :)</p>
 

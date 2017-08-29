@@ -10,7 +10,7 @@ alias: ["/2011/05/30/nuget-package-filename-mismatch-between-gallery-and-server-
 author: Xavier Decoster
 redirect_from:
  - /2011/05/30/nuget-package-filename-mismatch-between-gallery-and-server-aspx/.html
- - /2011/05/30/nuget-package-filename-mismatch-between-gallery-and-server-aspx/.html
+ - /nuget-package-filename-mismatch-between-gallery-and-server
 ---
 <p>Just noticed this one when setting up a corporate <a href="http://www.nuget.org" target="_blank">NuGet </a>server implementation based on NuGet.Server.dll.</p>
 

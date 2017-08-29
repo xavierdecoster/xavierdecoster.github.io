@@ -10,7 +10,7 @@ alias: ["/2012/05/08/slides-code-of-msdn-live-meeting-ci-using-tfs11-nuget-aspx/
 author: Xavier Decoster
 redirect_from:
  - /2012/05/08/slides-code-of-msdn-live-meeting-ci-using-tfs11-nuget-aspx/.html
- - /2012/05/08/slides-code-of-msdn-live-meeting-ci-using-tfs11-nuget-aspx/.html
+ - /slides-code-of-msdn-live-meeting-ci-using-tfs11-nuget
 ---
 <p>Thanks everyone for joining this session!</p>
 

@@ -10,7 +10,7 @@ alias: ["/2012/06/01/u-no-like-vs2012-shouting-menus-aspx/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/06/01/u-no-like-vs2012-shouting-menus-aspx/.html
- - /2012/06/01/u-no-like-vs2012-shouting-menus-aspx/.html
+ - /u-no-like-vs2012-shouting-menus
 ---
 <h2>::: TO DISABLE ALL CAPS MENUS :::</h2>
 

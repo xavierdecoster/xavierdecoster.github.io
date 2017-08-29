@@ -10,7 +10,7 @@ alias: ["/2012/08/21/debugging-nuget-package-restore/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/08/21/debugging-nuget-package-restore/.html
- - /2012/08/21/debugging-nuget-package-restore/.html
+ - /debugging-nuget-package-restore
 ---
 <h2>Package Restore Internals</h2>
 

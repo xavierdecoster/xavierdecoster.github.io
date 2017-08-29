@@ -10,7 +10,7 @@ alias: ["/2012/12/12/nuget-package-restore-from-a-secured-feed/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/12/12/nuget-package-restore-from-a-secured-feed/.html
- - /2012/12/12/nuget-package-restore-from-a-secured-feed/.html
+ - /nuget-package-restore-from-a-secured-feed
 ---
 <p>One of the most frequently asked questions at <a href="http://www.myget.org">MyGet</a> is the following one (we have pending updates to our <a href="http://www.myget.org/site/Faq">FAQ</a> section):</p>
 

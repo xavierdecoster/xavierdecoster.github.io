@@ -10,7 +10,7 @@ alias: ["/2011/07/12/3-simple-steps-to-publish-a-nupkg-to-myget-using-nuget-pack
 author: Xavier Decoster
 redirect_from:
  - /2011/07/12/3-simple-steps-to-publish-a-nupkg-to-myget-using-nuget-package-explorer-16/.html
- - /2011/07/12/3-simple-steps-to-publish-a-nupkg-to-myget-using-nuget-package-explorer-16/.html
+ - /3-simple-steps-to-publish-a-nupkg-to-myget-using-nuget-package-explorer-16
 ---
 <p>Today, Luan Nguyen (<a href="https://twitter.com/#!/dotnetjunky" target="_blank">@dotnetjunky</a>) <a href="http://npe.codeplex.com/wikipage?title=Release%20notes%20for%20NuGet%20Package%20Explorer%201.6" target="_blank">announced the release of NuGet Package Explorer (NPE) version 1.6</a>.</p>
 

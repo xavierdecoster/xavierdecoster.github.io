@@ -11,7 +11,7 @@ author: Xavier Decoster
 header.image: "/images/2014-04-18/2014-04-17_1958.png"
 redirect_from:
  - /2014/04/17/using-myget-as-a-oneget-package-source/.html
- - /2014/04/17/using-myget-as-a-oneget-package-source/.html
+ - /using-myget-as-a-oneget-package-source
 ---
 <p>At the Build conference, Microsoft announced the <a href="http://www.microsoft.com/en-eg/download/details.aspx?id=42316" target="_blank" title="Windows Management Framework 5.0 Preview">Windows Management Framework 5.0 Preview</a> which includes Windows PowerShell 5.0, updates to the PowerShell ISE, Network Switch Cmdlets and ... <b>OneGet</b>!</p>
 

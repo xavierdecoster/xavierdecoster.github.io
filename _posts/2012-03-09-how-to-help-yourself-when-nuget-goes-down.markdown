@@ -10,7 +10,7 @@ alias: ["/2012/03/09/how-to-help-yourself-when-nuget-goes-down/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/03/09/how-to-help-yourself-when-nuget-goes-down/.html
- - /2012/03/09/how-to-help-yourself-when-nuget-goes-down/.html
+ - /how-to-help-yourself-when-nuget-goes-down
 ---
 <table border="0">
   <tbody>

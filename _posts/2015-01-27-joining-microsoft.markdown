@@ -10,7 +10,7 @@ alias: ["/2015/01/27/joining-microsoft/"]
 author: Xavier Decoster
 redirect_from:
  - /2015/01/27/joining-microsoft/.html
- - /2015/01/27/joining-microsoft/.html
+ - /joining-microsoft
 ---
 <p><p>It's been over 7 years since I joined RealDolmen, one of Belgium's larger consultancy firms. I got to meet many interesting folks and had a wide variation in challenges. I was also lucky enough to attend a few conferences and was even allowed to speak abroad when I had the opportunity. Thank you <a href="http://www.realdolmen.com">RealDolmen</a>! And thank you everyone I worked with!
 </p><p>It was in 2011 at TechDays Belgium, after a talk by Scott Hanselman (<a href="http://www.hanselman.com/blog/TechDaysDevDaysNetherlandsAndBelgium.aspx">NuGet in depth: empowering OSS on the .NET platform</a>), when <a href="http://blog.maartenballiauw.be">Maarten Balliauw</a> and I got talking about an idea we had. We created a prototype and by the end of the month, we launched <a href="https://www.myget.org">MyGet</a>, a hosted NuGet server on Azure.

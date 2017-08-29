@@ -10,7 +10,7 @@ alias: ["/2011/04/29/what-you-should-know-before-speaking-at-a-belgian-tech-conf
 author: Xavier Decoster
 redirect_from:
  - /2011/04/29/what-you-should-know-before-speaking-at-a-belgian-tech-conference/.html
- - /2011/04/29/what-you-should-know-before-speaking-at-a-belgian-tech-conference/.html
+ - /what-you-should-know-before-speaking-at-a-belgian-tech-conference
 ---
 <p>I just had a wonderful time at <a href="http://www.microsoft.com/belux/techdays/2011/" target="_blank">TechDays 2011 BeLux</a> this week, with lots of good session by expert speakers. During the conference, it struck me how hard it is for an international (non-Belgian) speaker to get feedback from the audience. You wouldn't be the first one to enter the speaker room after a session and ask yourself: *what's wrong with the audience? was it that bad? *</p>
 

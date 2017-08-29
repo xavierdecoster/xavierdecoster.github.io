@@ -10,7 +10,7 @@ alias: ["/2012/12/13/nuget-package-restore-using-solution-specific/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/12/13/nuget-package-restore-using-solution-specific/.html
- - /2012/12/13/nuget-package-restore-using-solution-specific/.html
+ - /nuget-package-restore-using-solution-specific
 ---
 <p>In my post on <a href="/nuget-package-restore-from-a-secured-feed">how to restore packages from a secured feed</a>, I already anticipated an important fix in the upcoming 2.2 release of NuGet to further facilitate this using hierarchical config files. Well, today, that 2.2 version got released, so let's take a look at the hierarchical config approach in more detail.</p>
 

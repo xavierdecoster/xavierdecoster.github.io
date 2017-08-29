@@ -10,7 +10,7 @@ alias: ["/2011/11/16/why-everyone-should-be-using-a-symbol-server/"]
 author: Xavier Decoster
 redirect_from:
  - /2011/11/16/why-everyone-should-be-using-a-symbol-server/.html
- - /2011/11/16/why-everyone-should-be-using-a-symbol-server/.html
+ - /why-everyone-should-be-using-a-symbol-server
 ---
 <p>Today we are excited to <a href="http://blog.maartenballiauw.be/post/2011/11/16/Publishing-symbol-packages-for-a-MyGet-feed.aspx" target="_blank">announce</a> that <a href="http://www.myget.org" target="_blank">MyGet</a> has partnered with <a href="http://www.symbolsource.org" target="_blank">SymbolSource</a> to deliver you private NuGet feeds integrated with private symbol repositories! I really want to send kudos to everyone involved - you know who you are - and I personally really like the direction this is going. With this post I want to explain to you why you, and everyone else, should be using a symbol server as part of his development environment.</p>
 

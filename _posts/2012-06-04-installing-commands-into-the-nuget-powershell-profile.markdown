@@ -10,7 +10,7 @@ alias: ["/2012/06/04/installing-commands-into-the-nuget-powershell-profile/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/06/04/installing-commands-into-the-nuget-powershell-profile/.html
- - /2012/06/04/installing-commands-into-the-nuget-powershell-profile/.html
+ - /installing-commands-into-the-nuget-powershell-profile
 ---
 <p>If you're one of those guys who prefers to automate things than repeating them manually, you've probably spent some time already in the NuGet Package Manager Console. Many packages are providing way more than just a set of binaries. Some of them are really full installations of functionality and help you automate actions within Visual Studio. A good example is the well-known <a href="http://nuget.org/packages/MvcScaffolding" target="_blank">MvcScaffolding</a> package, which is providing tons of extra functionality in the PowerShell-enabled console.</p>
 

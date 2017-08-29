@@ -10,7 +10,7 @@ alias: ["/2012/03/08/hidden-gem-the-nuget-package-manifest-xsd/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/03/08/hidden-gem-the-nuget-package-manifest-xsd/.html
- - /2012/03/08/hidden-gem-the-nuget-package-manifest-xsd/.html
+ - /hidden-gem-the-nuget-package-manifest-xsd
 ---
 <p>If you are automating the creation of <a href="http://www.nuget.org" target="_blank">NuGet</a> packages (through CI for instance), you most likely touched a <strong>.nuspec</strong> file somehow. The .nuspec file is an XML file representing the NuGet package manifest, describing your package contents and metadata.</p>
 

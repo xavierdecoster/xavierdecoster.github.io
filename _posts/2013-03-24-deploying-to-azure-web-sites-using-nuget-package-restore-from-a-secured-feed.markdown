@@ -10,7 +10,7 @@ alias: ["/2013/03/24/deploying-to-azure-web-sites-using-nuget-package-restore-fr
 author: Xavier Decoster
 redirect_from:
  - /2013/03/24/deploying-to-azure-web-sites-using-nuget-package-restore-from-a-secured-feed/.html
- - /2013/03/24/deploying-to-azure-web-sites-using-nuget-package-restore-from-a-secured-feed/.html
+ - /deploying-to-azure-web-sites-using-nuget-package-restore-from-a-secured-feed
 ---
 <p>
 <b>

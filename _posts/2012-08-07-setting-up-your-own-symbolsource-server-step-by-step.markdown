@@ -10,7 +10,7 @@ alias: ["/2012/08/07/setting-up-your-own-symbolsource-server-step-by-step/"]
 author: Xavier Decoster
 redirect_from:
  - /2012/08/07/setting-up-your-own-symbolsource-server-step-by-step/.html
- - /2012/08/07/setting-up-your-own-symbolsource-server-step-by-step/.html
+ - /setting-up-your-own-symbolsource-server-step-by-step
 ---
 <p style="font-weight:bold; font-size:1.5em; border:1px solid #eee; background-color:#fff; padding: 10px; line-height:1.5em;">Edit: This post is rather out-dated, and I would now recommend you <span style="font-style:italic; background-color:#FFFBCC">get yourself out of the symbols server hosting business</span>, and instead, use MyGet's Symbol Server capabilities.<br/>
 More info: <a href="http://docs.myget.org/docs/reference/symbols">http://docs.myget.org/docs/reference/symbols</a>.</p>

@@ -10,7 +10,7 @@ alias: ["/2011/10/06/generate-package-dependency-matrix-directly-from-tfs-source
 author: Xavier Decoster
 redirect_from:
  - /2011/10/06/generate-package-dependency-matrix-directly-from-tfs-source-control-aspx/.html
- - /2011/10/06/generate-package-dependency-matrix-directly-from-tfs-source-control-aspx/.html
+ - /generate-package-dependency-matrix-directly-from-tfs-source-control
 ---
 <p>I've played with this idea for a while now, and I've finally <a href="http://nuget.codeplex.com/SourceControl/network/Forks/XavierDecoster/NuGetTfs" target="_blank">forked the NuGet sources</a> to add this functionality to the Commandline tool. This is work in progress, so please bear with me on this one. If you find defects or have suggestions for improvement, feel free to drop me a mail or comment on this post ;-)</p>
 
