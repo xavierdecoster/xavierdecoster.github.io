@@ -33,11 +33,11 @@ For private feeds however, there are a few things you need to know.</p>
 
 <p>As soon as you try to communicate with a secured package source in Visual Studio, it will prompt you for credentials.</p>
 
-<p><img src="http://xavierdecosterblog.blob.core.windows.net/blog/2012-12-12/2012-12-12_1014.png" alt="alt text" /></p>
+<p><img src="/images/2012-12-12/2012-12-12_1014.png" /></p>
 
 <p>So why do you get the following build error when using package restore?</p>
 
-<p><img src="http://xavierdecosterblog.blob.core.windows.net/blog/2012-12-12/2012-12-12_1513.png" alt="Cannot prompt for input in non-interactive mode" /></p>
+<p><img src="/images/2012-12-12/2012-12-12_1513.png" alt="Cannot prompt for input in non-interactive mode" /></p>
 
 <h3>There's no non-interactive way to provide credential parameters</h3>
 
