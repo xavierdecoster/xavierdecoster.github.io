@@ -16,7 +16,7 @@ redirect_from:
 * **Name:** Xavier Decoster  
 * **Birthday:** July 20, 1984
 * **Occupation:**
-	* Owner of [MyGet](https://www.myget.org)
+	* Co-founded [MyGet](https://www.myget.org)
 	* Senior Software Engineer for the [NuGet](https://www.nuget.org) server team at Microsoft
 * **Location:** [Lichtervelde](https://en.wikipedia.org/wiki/Lichtervelde), [Belgium](https://en.wikipedia.org/wiki/Belgium)
 
@@ -31,7 +31,7 @@ Thanks for wanting to contact me! Whether you have a question, you would like to
 
 ## Bio
 
-Xavier Decoster works at Microsoft as a senior developer on the NuGet team. He is a former Microsoft Most Valuable Professional (MVP) Visual Studio ALM and co-founder of [MyGet](https://www.myget.org), a Package Management platform as-a-Service. He also co-authored the [Pro NuGet](https://bit.ly/ProNuGetSE) books (Apress) and published articles on MSDN, on CodeProject and on various other web sites.
+Xavier Decoster works at Microsoft as a senior developer on the NuGet server team. He is a former Microsoft Most Valuable Professional (MVP) Visual Studio ALM and co-founded [MyGet](https://www.myget.org), a Package Management platform as-a-Service. He also co-authored the [Pro NuGet](https://bit.ly/ProNuGetSE) books (Apress) and published articles on MSDN, on CodeProject and on various other web sites.
 
 * Blog: [http://www.xavierdecoster.com](http://www.xavierdecoster.com)
 * Previous talks and presentations: [full list of talks](/talks-presentations.html)
